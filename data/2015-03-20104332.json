@@ -1,0 +1,227 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 151.78655519999998,
+      "y": 411.0786399999999,
+      "w": 63.77549919999999,
+      "h": 59.402660799999985,
+      "id": "ui-rect-0",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 260.43770479999995,
+      "y": 343.8671039999999,
+      "w": 29.675262399999994,
+      "h": 69.50195279999998,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 290.37556799999993,
+      "y": 345.4284399999999,
+      "w": 29.93539359999999,
+      "h": 68.72128479999998,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 267.6983287999999,
+      "y": 392.0023519999999,
+      "w": 11.600013039999997,
+      "h": 10.400006959999997,
+      "id": "ui-rect-3",
+      "Category": "Turning left",
+      "Color": "Green",
+      "Association_id": "ui-rect-1",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 295.2983039999999,
+      "y": 389.6040959999999,
+      "w": 15.399986559999997,
+      "h": 16.800002799999994,
+      "id": "ui-rect-4",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-2",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 544.2998399999999,
+      "y": 548.0014959999999,
+      "w": 27.200311599999992,
+      "h": 28.000050399999996,
+      "id": "ui-rect-5",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 778.8322639999999,
+      "y": 643.8741119999999,
+      "w": 179.08112319999995,
+      "h": 138.26576959999997,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 771.0969279999998,
+      "y": 639.9995839999998,
+      "w": 13.200011999999997,
+      "h": 33.80004319999999,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 932.6993199999997,
+      "y": 643.6024559999998,
+      "w": 12.200016079999996,
+      "h": 30.199915199999996,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 985.2963119999997,
+      "y": 351.5996959999999,
+      "w": 29.600076799999993,
+      "h": 70.2003008,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1017.9005199999997,
+      "y": 350.4005679999999,
+      "w": 30.000151999999993,
+      "h": 73.00000399999999,
+      "id": "ui-rect-10",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 990.6992479999997,
+      "y": 396.6040399999999,
+      "w": 18.400056639999995,
+      "h": 17.000067839999996,
+      "id": "ui-rect-11",
+      "Category": "Turning left",
+      "Color": "Green",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1024.7001519999997,
+      "y": 394.99605599999995,
+      "w": 17.199968239999997,
+      "h": 18.800049519999995,
+      "id": "ui-rect-12",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-10",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1054.6344479999998,
+      "y": 363.9120239999999,
+      "w": 61.17254079999998,
+      "h": 62.734151199999985,
+      "id": "ui-rect-13",
+      "Category": "Speed limit",
+      "Content": "20"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1109.8245199999997,
+      "y": 424.5626559999999,
+      "w": 60.13146719999998,
+      "h": 62.734151199999985,
+      "id": "ui-rect-14",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1320.5006079999998,
+      "y": 534.6025439999999,
+      "w": 38.40008479999999,
+      "h": 37.79997199999999,
+      "id": "ui-rect-15",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1321.2991119999997,
+      "y": 639.5989599999998,
+      "w": 40.39991199999999,
+      "h": 38.79961119999999,
+      "id": "ui-rect-16",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1321.0987999999998,
+      "y": 594.6028479999999,
+      "w": 39.20023519999999,
+      "h": 38.20004719999999,
+      "id": "ui-rect-17",
+      "Category": "Speed limit",
+      "Content": "20"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1301.7865279999996,
+      "y": 630.1047199999998,
+      "w": 144.89856639999996,
+      "h": 227.04075519999992,
+      "id": "ui-rect-18",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 1,
+    "Traffic lights": 8,
+    "Indication signs": 1,
+    "Prohibitory signs": 6,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

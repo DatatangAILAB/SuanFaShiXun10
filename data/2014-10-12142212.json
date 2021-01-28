@@ -1,0 +1,95 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 847.499,
+      "y": 1072,
+      "w": 211,
+      "h": 178,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1404.5,
+      "y": 1099,
+      "w": 41.9998,
+      "h": 43.0003,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1440.5,
+      "y": 1034,
+      "w": 95.9998,
+      "h": 135,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1495.5,
+      "y": 1056,
+      "w": 81,
+      "h": 99,
+      "id": "ui-rect-3",
+      "Category": "Van",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1593.21,
+      "y": 1105.71,
+      "w": 21.4286,
+      "h": 27.1428,
+      "id": "ui-rect-5",
+      "Category": "Van",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1605.36,
+      "y": 1102.86,
+      "w": 22.8572,
+      "h": 28.5714,
+      "id": "ui-rect-6",
+      "Category": "Van",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1681.79,
+      "y": 1045.71,
+      "w": 31.4286,
+      "h": 30.7144,
+      "id": "ui-rect-8",
+      "Category": "Speed limit",
+      "Content": "110"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

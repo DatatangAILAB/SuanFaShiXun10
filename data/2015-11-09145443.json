@@ -1,0 +1,134 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1558.5,
+      "y": 855.003,
+      "w": 87,
+      "h": 83.9999,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1312.5,
+      "y": 855.999,
+      "w": 27,
+      "h": 26,
+      "id": "ui-rect-1",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1274.5,
+      "y": 852,
+      "w": 32.0001,
+      "h": 34,
+      "id": "ui-rect-2",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1236.5,
+      "y": 852,
+      "w": 32.9999,
+      "h": 32.9999,
+      "id": "ui-rect-3",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1144.5,
+      "y": 1029,
+      "w": 31,
+      "h": 27,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1083.5,
+      "y": 1023,
+      "w": 36,
+      "h": 32.9999,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1114.5,
+      "y": 1005,
+      "w": 20,
+      "h": 44.0001,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1176.09,
+      "y": 942.364,
+      "w": 22,
+      "h": 17,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1182.09,
+      "y": 941.364,
+      "w": 13.9991,
+      "h": 12,
+      "id": "ui-rect-8",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-7",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1109.09,
+      "y": 942.364,
+      "w": 20,
+      "h": 14,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1112.09,
+      "y": 942.364,
+      "w": 11,
+      "h": 11,
+      "id": "ui-rect-10",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 760.556,
+      "y": 470.554,
+      "w": 50,
+      "h": 49,
+      "id": "ui-rect-0",
+      "Category": "No overtaking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 812.556,
+      "y": 461.557,
+      "w": 46.9997,
+      "h": 50,
+      "id": "ui-rect-1",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 863.557,
+      "y": 455.556,
+      "w": 50,
+      "h": 52.9999,
+      "id": "ui-rect-2",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 917.555,
+      "y": 445.553,
+      "w": 52.9999,
+      "h": 57.0001,
+      "id": "ui-rect-3",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 977.557,
+      "y": 436.556,
+      "w": 51.0003,
+      "h": 54.9998,
+      "id": "ui-rect-4",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1147.57,
+      "y": 452.556,
+      "w": 62.0004,
+      "h": 57.0001,
+      "id": "ui-rect-5",
+      "Category": "Non-motor vehicle driving",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 732.555,
+      "w": 156.557,
+      "h": 277.999,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 480.557,
+      "y": 609.551,
+      "w": 353.998,
+      "h": 186,
+      "id": "ui-rect-7",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 924.266,
+      "y": 709.555,
+      "w": 29.9259,
+      "h": 26.5306,
+      "id": "ui-rect-8",
+      "Category": "Tricycle",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1274.57,
+      "y": 688.553,
+      "w": 46.5467,
+      "h": 42.8573,
+      "id": "ui-rect-9",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 481.556,
+      "y": 719.555,
+      "w": 57.9997,
+      "h": 46.0001,
+      "id": "ui-rect-10",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 3,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

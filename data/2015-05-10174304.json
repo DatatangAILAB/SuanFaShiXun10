@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 23.188391519999996,
+      "y": 585.5037439999999,
+      "w": 599.0316639999999,
+      "h": 338.1650719999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 711.8978719999998,
+      "y": 544.6016799999999,
+      "w": 239.40000559999996,
+      "h": 261.80010079999994,
+      "id": "ui-rect-1",
+      "Category": "Tricycle",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1074.5010079999997,
+      "y": 569.7998319999998,
+      "w": 330.4022959999999,
+      "h": 240.80109199999993,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 856.1005599999999,
+      "y": 589.4029679999999,
+      "w": 256.20096879999994,
+      "h": 155.40012879999998,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 678.3003359999998,
+      "y": 614.5983759999999,
+      "w": 78.40019599999998,
+      "h": 64.40003359999999,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1259.3999599999997,
+      "y": 560.2013199999999,
+      "w": 159.99989599999995,
+      "h": 133.00003359999997,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

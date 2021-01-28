@@ -1,0 +1,79 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1284.0191279999997,
+      "y": 635.4884479999998,
+      "w": 39.39999839999999,
+      "h": 32.60009199999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1333.0187359999995,
+      "y": 627.8848239999999,
+      "w": 56.59993919999999,
+      "h": 57.99992799999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1465.6197919999997,
+      "y": 592.4899679999999,
+      "w": 17.799998719999998,
+      "h": 32.598994399999995,
+      "id": "ui-rect-4",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1561.2207519999995,
+      "y": 447.4887759999999,
+      "w": 24.599987439999992,
+      "h": 25.000007759999992,
+      "id": "ui-rect-6",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1654.5387039999996,
+      "y": 630.8428559999999,
+      "w": 79.91515839999998,
+      "h": 60.91213519999999,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1753.6410079999996,
+      "y": 463.1817119999999,
+      "w": 319.6458159999999,
+      "h": 314.50355999999994,
+      "id": "ui-rect-8",
+      "Category": "Medium bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 1489,
+      "y": 731,
+      "w": 111,
+      "h": 195,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1201.5,
+      "y": 733,
+      "w": 42,
+      "h": 135,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1098.5,
+      "y": 772,
+      "w": 22,
+      "h": 46.9999,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1083.5,
+      "y": 781.999,
+      "w": 23.0001,
+      "h": 49.0001,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1017.5,
+      "y": 783,
+      "w": 32.9999,
+      "h": 59.0001,
+      "id": "ui-rect-4",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 993.499,
+      "y": 772,
+      "w": 23.0001,
+      "h": 54,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 974.499,
+      "y": 773.999,
+      "w": 20,
+      "h": 52,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 953.499,
+      "y": 777,
+      "w": 15,
+      "h": 32,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 941.499,
+      "y": 779,
+      "w": 13,
+      "h": 32,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 825.499,
+      "y": 772,
+      "w": 38.9999,
+      "h": 26,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 443.5,
+      "y": 752,
+      "w": 186,
+      "h": 57.0001,
+      "id": "ui-rect-10",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 289.501,
+      "y": 744,
+      "w": 105,
+      "h": 76.9999,
+      "id": "ui-rect-11",
+      "Category": "Tricycle",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1023.5,
+      "y": 716,
+      "w": 22,
+      "h": 24,
+      "id": "ui-rect-12",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1053.5,
+      "y": 781,
+      "w": 23,
+      "h": 46,
+      "id": "ui-rect-13",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 862.5,
+      "y": 773,
+      "w": 26,
+      "h": 28,
+      "id": "ui-rect-14",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 766.5,
+      "y": 771,
+      "w": 51,
+      "h": 30,
+      "id": "ui-rect-15",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 80.5,
+      "y": 742,
+      "w": 221,
+      "h": 86,
+      "id": "ui-rect-16",
+      "Category": "Dontcare"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 7,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 5
+  }
+}

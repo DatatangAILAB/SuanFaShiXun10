@@ -1,0 +1,153 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Indication signs",
+      "x": 1420.4919825072889,
+      "y": 373.99416909621,
+      "w": 175.99890670553938,
+      "h": 153.00109329446067,
+      "id": "ui-rect-0",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1541.06778425656,
+      "y": 712.9992711370264,
+      "w": 58.671282798833836,
+      "h": 56.428571428571445,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1391.0823615160355,
+      "y": 707.6494169096211,
+      "w": 74.48979591836736,
+      "h": 59.18367346938777,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1451.7711370262393,
+      "y": 713.7755102040818,
+      "w": 45.91836734693879,
+      "h": 76.02004373177844,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1066.0677842565601,
+      "y": 697.3214285714288,
+      "w": 182.10204081632656,
+      "h": 112.85714285714289,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1035.9584548104958,
+      "y": 709.6938775510206,
+      "w": 86.73542274052481,
+      "h": 45.91836734693879,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 809.9599125364434,
+      "y": 711.5998542274054,
+      "w": 101.42893586005835,
+      "h": 67.14285714285717,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 827.8061224489797,
+      "y": 708.1741982507291,
+      "w": 153.57106413994174,
+      "h": 73.46938775510206,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 577.8061224489797,
+      "y": 685.2040816326532,
+      "w": 234.18075801749276,
+      "h": 104.59220116618077,
+      "id": "ui-rect-9",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 501.2791545189506,
+      "y": 707.1392128279886,
+      "w": 79.08163265306125,
+      "h": 83.1629008746356,
+      "id": "ui-rect-10",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 270.6585276967931,
+      "y": 639.2857142857144,
+      "w": 35.204154518950446,
+      "h": 33.673578717201174,
+      "id": "ui-rect-11",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 23.214030612244905,
+      "y": 662.2448979591838,
+      "w": 10.204081632653065,
+      "h": 14.285787172011666,
+      "id": "ui-rect-12",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 7,
+    "Traffic lights": 1,
+    "Indication signs": 2,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1161.5615423999996,
+      "y": 864.5559215999997,
+      "w": 817.9995711999998,
+      "h": 408.9344783999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1653.5552543999997,
+      "y": 930.5546095999997,
+      "w": 801.0043327999998,
+      "h": 328.9992339199999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2231.5623903999995,
+      "y": 996.5571391999996,
+      "w": 189.00441503999994,
+      "h": 92.00017343999997,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1050.5585103999997,
+      "y": 937.5578463999998,
+      "w": 355.0011035199999,
+      "h": 101.99947407999997,
+      "id": "ui-rect-3",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 956.5507167999997,
+      "y": 948.5563471999998,
+      "w": 257.9999351999999,
+      "h": 96.99963167999998,
+      "id": "ui-rect-4",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 770.5558111999998,
+      "y": 944.5572415999998,
+      "w": 293.00152111999995,
+      "h": 93.00014191999998,
+      "id": "ui-rect-5",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 692.5559647999997,
+      "y": 927.5581615999997,
+      "w": 288.0020628799999,
+      "h": 98.99995279999997,
+      "id": "ui-rect-6",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 495.55871679999984,
+      "y": 910.5590815999998,
+      "w": 441.0003135999999,
+      "h": 137.99987599999997,
+      "id": "ui-rect-7",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 884.1788143999997,
+      "w": 925.4030239999997,
+      "h": 457.79963039999984,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 9,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

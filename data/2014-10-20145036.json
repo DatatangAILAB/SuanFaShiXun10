@@ -1,0 +1,174 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 193.553,
+      "y": 633.964,
+      "w": 172.843,
+      "h": 107.766,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 472.55,
+      "y": 642.998,
+      "w": 636.998,
+      "h": 244,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 837.564,
+      "y": 485.589,
+      "w": 470.715,
+      "h": 274.413,
+      "id": "ui-rect-2",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1634.67,
+      "y": 226.113,
+      "w": 124.271,
+      "h": 42.2741,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1645.51,
+      "y": 236.09,
+      "w": 23.8014,
+      "h": 26.6,
+      "id": "ui-rect-4",
+      "Category": "Ordinary light",
+      "Color": "Red",
+      "Association_id": "ui-rect-3",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1708.32,
+      "y": 284.287,
+      "w": 68.5995,
+      "h": 68.5995,
+      "id": "ui-rect-5",
+      "Category": "Speed limit",
+      "Content": "50"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1920.19,
+      "y": 477.264,
+      "w": 34.8812,
+      "h": 82.778,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1928.11,
+      "y": 481.491,
+      "w": 20.6,
+      "h": 15.5989,
+      "id": "ui-rect-7",
+      "Category": "Ordinary light",
+      "Color": "Red",
+      "Association_id": "ui-rect-6",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1837.53,
+      "y": 591.494,
+      "w": 24.6,
+      "h": 25.1999,
+      "id": "ui-rect-8",
+      "Category": "Driving prohibited",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1670.12,
+      "y": 646.673,
+      "w": 91.3498,
+      "h": 66.6,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1729.11,
+      "y": 629.796,
+      "w": 155.799,
+      "h": 112.8,
+      "id": "ui-rect-10",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1842.62,
+      "y": 644.614,
+      "w": 123.976,
+      "h": 94.8983,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1804.56,
+      "y": 668.463,
+      "w": 215.005,
+      "h": 443.797,
+      "id": "ui-rect-12",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 617.348,
+      "w": 181.122,
+      "h": 169.622,
+      "id": "ui-rect-13",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 6,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 1
+  }
+}

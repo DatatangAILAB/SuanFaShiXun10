@@ -1,0 +1,95 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 513.5717999999999,
+      "w": 320.1702,
+      "h": 250.7288,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 323.65619999999996,
+      "y": 559.6934,
+      "w": 55.10204,
+      "h": 156.63199999999998,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 546.5306,
+      "y": 548.9904,
+      "w": 120.26238000000001,
+      "h": 67.4198,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 605.6162,
+      "y": 584.1332,
+      "w": 46.0747,
+      "h": 39.0467,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 690.5472,
+      "y": 542.9998,
+      "w": 21.99974,
+      "h": 17.80002,
+      "id": "ui-rect-4",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 984.6325999999999,
+      "y": 592.718,
+      "w": 40.08634,
+      "h": 108.02805999999998,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 327.0932,
+      "y": 541.5451999999999,
+      "w": 25.510239999999996,
+      "h": 56.122499999999995,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

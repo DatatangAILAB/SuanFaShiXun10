@@ -1,0 +1,47 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1282.38,
+      "y": 1099.09,
+      "w": 25,
+      "h": 25,
+      "id": "ui-rect-0",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1434.27,
+      "y": 1125.95,
+      "w": 41.9096,
+      "h": 47.116,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1574.31,
+      "y": 1112.93,
+      "w": 52.8426,
+      "h": 64.3391,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

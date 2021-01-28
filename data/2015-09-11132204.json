@@ -1,0 +1,37 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 912.5000000000001,
+      "y": 1036.6887755102043,
+      "w": 65.16989795918369,
+      "h": 99.00000000000001,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 823.9336734693879,
+      "y": 1043.0714285714287,
+      "w": 30.800000000000004,
+      "h": 31.128010204081637,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

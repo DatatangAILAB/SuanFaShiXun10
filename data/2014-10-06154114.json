@@ -1,0 +1,73 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 597.499,
+      "y": 645.999,
+      "w": 273.571,
+      "h": 176.142,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 792.499,
+      "y": 655,
+      "w": 84.1837,
+      "h": 64.388,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 882.4,
+      "y": 660.002,
+      "w": 38.0612,
+      "h": 30.6123,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 953.9,
+      "y": 623.469,
+      "w": 21.4285,
+      "h": 28.0612,
+      "id": "ui-rect-6",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 933.5,
+      "y": 653,
+      "w": 31,
+      "h": 26,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

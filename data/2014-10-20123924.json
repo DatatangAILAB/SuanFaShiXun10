@@ -1,0 +1,37 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1158.7127655039994,
+      "y": 1036.5686325119996,
+      "w": 24.303836300799986,
+      "h": 30.557643016319986,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1186.5720487039994,
+      "y": 946.5680887039996,
+      "w": 181.38802814719992,
+      "h": 224.4494445311999,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1365.6025599999996,
+      "y": 1103.2761599999997,
+      "w": 17.400056799999994,
+      "h": 15.600110399999997,
+      "id": "ui-rect-1",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1391.2040799999997,
+      "y": 1103.6740399999999,
+      "w": 18.199991599999997,
+      "h": 15.799991199999997,
+      "id": "ui-rect-2",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1415.8059999999998,
+      "y": 1104.2698799999998,
+      "w": 17.799994799999997,
+      "h": 14.799901199999997,
+      "id": "ui-rect-3",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1355.6829999999995,
+      "y": 1169.5927599999998,
+      "w": 74.34436799999997,
+      "h": 107.50717599999997,
+      "id": "ui-rect-7",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1386.6627599999997,
+      "y": 1228.2653599999999,
+      "w": 40.45204799999999,
+      "h": 73.25107999999997,
+      "id": "ui-rect-8",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1449.7139999999997,
+      "y": 1235.5604799999999,
+      "w": 82.36174799999998,
+      "h": 33.527759999999994,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1503.6433999999995,
+      "y": 1235.9191599999997,
+      "w": 122.44943199999997,
+      "h": 34.62085199999999,
+      "id": "ui-rect-10",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2005.0015999999996,
+      "y": 1175.2551999999998,
+      "w": 89.28564399999998,
+      "h": 292.1419199999999,
+      "id": "ui-rect-11",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

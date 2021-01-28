@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 578.171,
+      "y": 698.98,
+      "w": 28.0612,
+      "h": 30.9767,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

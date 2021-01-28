@@ -1,0 +1,174 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1863.4993999999995,
+      "y": 1087.9999199999997,
+      "w": 130.99993199999994,
+      "h": 149.99997599999998,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1028.5001999999997,
+      "y": 872.0000799999998,
+      "w": 21.000027999999993,
+      "h": 24.000003999999993,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1026.49904,
+      "y": 897.9994799999998,
+      "w": 24.999995999999996,
+      "h": 23.000011999999995,
+      "id": "ui-rect-2",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 942.4993199999998,
+      "y": 807.0005999999998,
+      "w": 37.00009599999999,
+      "h": 29.999955999999994,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 946.4996799999998,
+      "y": 809.9993999999998,
+      "w": 28.99996399999999,
+      "h": 23.000011999999995,
+      "id": "ui-rect-4",
+      "Category": "Numbers",
+      "Color": "Green",
+      "Association_id": "ui-rect-3",
+      "Number": "24"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 859.4991999999997,
+      "y": 805.9990399999998,
+      "w": 52.99996799999999,
+      "h": 26.999979999999994,
+      "id": "ui-rect-5",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 890.5005199999997,
+      "y": 811.0009599999998,
+      "w": 19.000004799999996,
+      "h": 17.999993199999995,
+      "id": "ui-rect-6",
+      "Category": "Turning right",
+      "Color": "Green",
+      "Association_id": "ui-rect-5",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 776.4990799999998,
+      "y": 800.9990799999998,
+      "w": 52.99996799999999,
+      "h": 29.999955999999994,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 808.4999999999998,
+      "y": 807.0005999999998,
+      "w": 16.000009199999997,
+      "h": 17.999993199999995,
+      "id": "ui-rect-8",
+      "Category": "Going straight",
+      "Color": "Green",
+      "Association_id": "ui-rect-7",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 690.5001599999998,
+      "y": 797.0006799999998,
+      "w": 55.999943999999985,
+      "h": 27.999971999999993,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 693.5009199999998,
+      "y": 800.9990799999998,
+      "w": 23.000011999999995,
+      "h": 19.000004799999996,
+      "id": "ui-rect-10",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 565.4991999999999,
+      "y": 921.0000799999998,
+      "w": 313.99983999999995,
+      "h": 236.99927999999994,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 465.4999999999999,
+      "y": 939.0007199999998,
+      "w": 72.00001199999997,
+      "h": 83.99991599999998,
+      "id": "ui-rect-12",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 353.4997199999999,
+      "y": 968.0008799999997,
+      "w": 80.99993999999998,
+      "h": 71.00001999999998,
+      "id": "ui-rect-13",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 8,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

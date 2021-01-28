@@ -1,0 +1,44 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 760.0905244799998,
+      "y": 733.3660499199998,
+      "w": 79.00042953599997,
+      "h": 66.99996262399998,
+      "id": "ui-rect-0",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 733.0863814399999,
+      "y": 825.3662233599997,
+      "w": 25.99997184959999,
+      "h": 24.00001952319999,
+      "id": "ui-rect-1",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 562.0906188799999,
+      "y": 864.3638415999997,
+      "w": 46.000086719999985,
+      "h": 38.000008502399986,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 816.4991519999998,
+      "y": 716.9989679999999,
+      "w": 35.99990799999999,
+      "h": 28.999963999999995,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1020.4990879999997,
+      "y": 658.9990399999998,
+      "w": 108.99991199999997,
+      "h": 95.99993759999997,
+      "id": "ui-rect-1",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1339.5000639999996,
+      "y": 686.9988159999998,
+      "w": 35.99990799999999,
+      "h": 69.00007519999998,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

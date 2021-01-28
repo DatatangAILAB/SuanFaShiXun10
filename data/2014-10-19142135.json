@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 433.83411612799983,
+      "y": 1026.4478604799997,
+      "w": 106.41385663999996,
+      "h": 34.78414367679999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

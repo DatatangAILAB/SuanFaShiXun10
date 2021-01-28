@@ -1,0 +1,89 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 568.4991759999999,
+      "y": 310.00065599999994,
+      "w": 92.99992239999997,
+      "h": 34.99999439999999,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 676.5002719999999,
+      "y": 277.0013119999999,
+      "w": 54.99991279999999,
+      "h": 51.99989759999998,
+      "id": "ui-rect-1",
+      "Category": "Height limit",
+      "Content": "3"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 745.5008959999999,
+      "y": 312.00103199999995,
+      "w": 91.00009519999998,
+      "h": 34.00008079999999,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 927.4994399999997,
+      "y": 315.00022399999995,
+      "w": 92.00000879999999,
+      "h": 34.99999439999999,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1122.4990559999997,
+      "y": 456.99947999999983,
+      "w": 37.00009599999999,
+      "h": 34.99999439999999,
+      "id": "ui-rect-4",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1124.4994319999996,
+      "y": 498.00032799999985,
+      "w": 35.99990799999999,
+      "h": 38.00000959999999,
+      "id": "ui-rect-5",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1124.4994319999996,
+      "y": 539.9999919999999,
+      "w": 37.00009599999999,
+      "h": 37.00009599999999,
+      "id": "ui-rect-6",
+      "Category": "Speed limit",
+      "Content": "70"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 4,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

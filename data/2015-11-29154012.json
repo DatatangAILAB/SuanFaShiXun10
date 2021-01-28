@@ -1,0 +1,71 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 963.5232207999996,
+      "y": 1082.6512367999997,
+      "w": 28.061197695999994,
+      "h": 29.591767967999992,
+      "id": "ui-rect-0",
+      "Category": "Height limit",
+      "Content": "4.5"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1087.4993359999996,
+      "y": 1053.0632335999996,
+      "w": 30.10220135999999,
+      "h": 30.10220135999999,
+      "id": "ui-rect-1",
+      "Category": "No overtaking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1087.4993359999996,
+      "y": 1083.6731023999996,
+      "w": 30.61228900799999,
+      "h": 28.571362175999994,
+      "id": "ui-rect-2",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1087.4993359999996,
+      "y": 1111.2212159999997,
+      "w": 29.081718735999992,
+      "h": 28.061197695999994,
+      "id": "ui-rect-3",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1487.4291039999996,
+      "y": 958.4561503999997,
+      "w": 48.46946719999999,
+      "h": 49.562786559999985,
+      "id": "ui-rect-4",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1949.6427327999993,
+      "y": 743.5724127999998,
+      "w": 142.14304159999995,
+      "h": 132.14297263999995,
+      "id": "ui-rect-5",
+      "Category": "Other"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 4,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

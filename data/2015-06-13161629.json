@@ -1,0 +1,82 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 111.50008799999998,
+      "y": 634.9988399999999,
+      "w": 65.00045999999999,
+      "h": 38.00067599999999,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 247.19323999999995,
+      "y": 634.9988399999999,
+      "w": 74.26557599999998,
+      "h": 36.734711999999995,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 800.4992799999998,
+      "y": 632.0000399999999,
+      "w": 34.99991599999999,
+      "h": 37.00009599999999,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 944.5024399999998,
+      "y": 634.6950399999998,
+      "w": 41.32640399999999,
+      "h": 31.979555999999988,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 787.5005599999998,
+      "y": 610.9986399999998,
+      "w": 31.00014399999999,
+      "h": 37.00009599999999,
+      "id": "ui-rect-5",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1003.5003999999998,
+      "y": 635.2046399999998,
+      "w": 10.932899599999997,
+      "h": 26.042323999999994,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

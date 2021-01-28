@@ -1,0 +1,58 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 431.5002421307506,
+      "y": 794.0009685230025,
+      "w": 181.00029055690072,
+      "h": 328.9995157384988,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 456.5016949152543,
+      "y": 815.9980629539953,
+      "w": 124.99990314769975,
+      "h": 231.0004842615012,
+      "id": "ui-rect-1",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 542.4968523002422,
+      "y": 802.9985472154964,
+      "w": 178.00038740920098,
+      "h": 157.99980629539954,
+      "id": "ui-rect-2",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 590.7990314769976,
+      "w": 335.3007263922518,
+      "h": 522.2004842615013,
+      "id": "ui-rect-3",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

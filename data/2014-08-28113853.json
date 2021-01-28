@@ -1,0 +1,69 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 0,
+      "y": 521,
+      "w": 95,
+      "h": 168,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 924.5,
+      "y": 572,
+      "w": 58,
+      "h": 119,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1055.5,
+      "y": 176,
+      "w": 544,
+      "h": 665,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 930.5,
+      "y": 479,
+      "w": 24,
+      "h": 24,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "70"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 908.5,
+      "y": 479,
+      "w": 21,
+      "h": 23,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "90"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

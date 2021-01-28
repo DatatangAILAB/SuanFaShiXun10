@@ -1,0 +1,93 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1023.2063183999996,
+      "y": 1003.5719007999998,
+      "w": 14.212921183999995,
+      "h": 34.329382751999994,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1047.7080431999996,
+      "y": 970.1154063999998,
+      "w": 72.88629263999998,
+      "h": 67.71127327999999,
+      "id": "ui-rect-1",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1326.2778255999997,
+      "y": 940.3084319999998,
+      "w": 19.898066607999997,
+      "h": 17.857293439999992,
+      "id": "ui-rect-2",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1327.2996911999996,
+      "y": 959.6931455999998,
+      "w": 20.408231087999994,
+      "h": 17.346975295999993,
+      "id": "ui-rect-3",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1787.5041631999995,
+      "y": 599.0014799999999,
+      "w": 109.00002175999997,
+      "h": 101.99985823999998,
+      "id": "ui-rect-4",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1797.5038479999994,
+      "y": 707.0003807999999,
+      "w": 109.00002175999997,
+      "h": 108.00005327999996,
+      "id": "ui-rect-5",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1992.4957807999995,
+      "y": 859.2852463999998,
+      "w": 34.28570375999999,
+      "h": 51.42865167999999,
+      "id": "ui-rect-6",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 2090.3528575999994,
+      "y": 834.2841135999997,
+      "w": 52.85695855999999,
+      "h": 64.28571855999999,
+      "id": "ui-rect-7",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 0,
+    "MISC": 4,
+    "Dontcare": 0
+  }
+}

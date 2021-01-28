@@ -1,0 +1,58 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 2019.7788239999993,
+      "y": 849.5544735999997,
+      "w": 443.00178719999985,
+      "h": 331.0007075199999,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1099.7809311999997,
+      "y": 954.5569263999998,
+      "w": 58.000092639999984,
+      "h": 49.99996063999998,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 895.6920895999998,
+      "y": 946.9966575999997,
+      "w": 55.02899919999999,
+      "h": 74.70682687999998,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 85.77793391999998,
+      "y": 903.5558447999998,
+      "w": 284.9998524799999,
+      "h": 201.99939535999994,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

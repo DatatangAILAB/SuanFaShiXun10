@@ -1,0 +1,121 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 696.4167727999998,
+      "w": 52.32182367999999,
+      "h": 33.57980975999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 47.20020255999999,
+      "y": 693.8736335999998,
+      "w": 88.20006271999998,
+      "h": 40.40018639999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 136.66184671999994,
+      "y": 687.3083391999999,
+      "w": 15.097795327999995,
+      "h": 44.513003359999985,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 608.9665903999999,
+      "y": 707.8570575999998,
+      "w": 30.247797999999992,
+      "h": 25.51029846399999,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 780.4056735999998,
+      "y": 591.8714703999998,
+      "w": 33.999888719999994,
+      "h": 14.200013407999997,
+      "id": "ui-rect-10",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 855.1977839999998,
+      "y": 592.0712335999999,
+      "w": 34.200112911999994,
+      "h": 13.999981295999996,
+      "id": "ui-rect-11",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 930.0014191999998,
+      "y": 591.8714703999998,
+      "w": 34.599908223999996,
+      "h": 14.400007103999997,
+      "id": "ui-rect-12",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1161.7305727999997,
+      "y": 691.0001167999998,
+      "w": 171.93887535999997,
+      "h": 76.02026991999998,
+      "id": "ui-rect-13",
+      "Category": "Tricycle",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1452.0018687999998,
+      "y": 661.5388863999998,
+      "w": 16.139099423999994,
+      "h": 29.67509227199999,
+      "id": "ui-rect-14",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

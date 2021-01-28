@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1225.77,
+      "y": 890.308,
+      "w": 155.613,
+      "h": 128.572,
+      "id": "ui-rect-0",
+      "Category": "Cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

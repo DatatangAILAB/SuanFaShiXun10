@@ -1,0 +1,73 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 210.50048309178746,
+      "y": 826.9990338164251,
+      "w": 294.99903381642514,
+      "h": 155.00000000000003,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1293.2096618357489,
+      "y": 816.4289855072465,
+      "w": 78.57140096618357,
+      "h": 38.571400966183575,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 952.2937198067634,
+      "y": 765.3062801932367,
+      "w": 126.02106280193239,
+      "h": 119.3880193236715,
+      "id": "ui-rect-3",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 666.0714975845411,
+      "y": 844.9004830917875,
+      "w": 16.836695652173912,
+      "h": 34.18376811594204,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 735.4995169082126,
+      "y": 816.8425120772947,
+      "w": 35.40193236714976,
+      "h": 35.40193236714976,
+      "id": "ui-rect-5",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

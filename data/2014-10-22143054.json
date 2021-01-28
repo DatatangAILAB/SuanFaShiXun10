@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1064.0002687999997,
+      "y": 508.3627695999998,
+      "w": 25.999987215999994,
+      "h": 70.00009855999997,
+      "id": "ui-rect-0",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 769.9987791999998,
+      "y": 530.3636127999998,
+      "w": 25.999987215999994,
+      "h": 38.999923199999984,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 457.9993935999999,
+      "y": 540.3632975999999,
+      "w": 19.000015775999994,
+      "h": 25.000018735999994,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 327.00006527999994,
+      "y": 536.3641919999999,
+      "w": 18.000008879999996,
+      "h": 23.000004943999993,
+      "id": "ui-rect-3",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 4,
+    "Dontcare": 0
+  }
+}

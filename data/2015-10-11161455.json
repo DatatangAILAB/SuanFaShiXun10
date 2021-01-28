@@ -1,0 +1,120 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 632.0008239999999,
+      "y": 1087.293536,
+      "w": 264.2856159999999,
+      "h": 209.28487999999993,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 949.8575519999998,
+      "y": 1143.7074319999997,
+      "w": 107.14277279999997,
+      "h": 77.85715839999997,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1029.856128,
+      "y": 1170.1431279999997,
+      "w": 68.57146239999999,
+      "h": 49.285807199999994,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1109.8574479999997,
+      "y": 1026.5715599999999,
+      "w": 142.85703039999996,
+      "h": 202.14279679999993,
+      "id": "ui-rect-3",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1379.8560719999996,
+      "y": 880.8569279999998,
+      "w": 46.42847999999999,
+      "h": 42.14317519999999,
+      "id": "ui-rect-4",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1441.2914879999996,
+      "y": 881.5703679999998,
+      "w": 39.99983679999999,
+      "h": 39.285847999999994,
+      "id": "ui-rect-5",
+      "Category": "No overtaking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1496.2785039999999,
+      "y": 880.8569279999998,
+      "w": 41.428363199999986,
+      "h": 39.99983679999999,
+      "id": "ui-rect-6",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1526.9920959999997,
+      "y": 935.8576639999998,
+      "w": 54.285649599999985,
+      "h": 44.28596479999999,
+      "id": "ui-rect-7",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1529.8513439999995,
+      "y": 981.5727039999998,
+      "w": 55.71445039999998,
+      "h": 49.285807199999994,
+      "id": "ui-rect-8",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1890.5720959999996,
+      "y": 111.19648399999997,
+      "w": 700.7133279999998,
+      "h": 1501.8076639999997,
+      "id": "ui-rect-9",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

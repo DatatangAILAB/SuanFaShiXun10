@@ -1,0 +1,154 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 765.8558879999997,
+      "w": 57.85723999999999,
+      "h": 367.8578959999999,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 138.57145119999996,
+      "y": 865.1420399999998,
+      "w": 347.14343999999994,
+      "h": 262.14282639999993,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 290.71307999999993,
+      "y": 888.7129999999997,
+      "w": 231.42868559999994,
+      "h": 204.28558639999994,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 489.9988239999999,
+      "y": 1001.5709759999999,
+      "w": 209.28570319999997,
+      "h": 75.00010559999998,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 680.7150559999999,
+      "y": 1005.8571039999997,
+      "w": 142.14276719999995,
+      "h": 52.14285999999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 738.5722959999998,
+      "y": 1005.1436639999997,
+      "w": 37.14278399999999,
+      "h": 60.00002959999998,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 792.8568479999998,
+      "y": 1010.1432319999997,
+      "w": 104.28571999999998,
+      "h": 40.71437439999999,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 869.2854799999998,
+      "y": 999.4279119999998,
+      "w": 42.14290079999999,
+      "h": 45.71421679999999,
+      "id": "ui-rect-7",
+      "Category": "Medium bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 950.0002399999997,
+      "y": 1014.4293599999997,
+      "w": 40.000111199999985,
+      "h": 30.714415199999994,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1077.1434799999997,
+      "y": 1009.4297919999998,
+      "w": 111.42862639999997,
+      "h": 85.00006479999998,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1174.2865679999998,
+      "y": 1022.9988719999998,
+      "w": 42.85716399999999,
+      "h": 35.71425759999999,
+      "id": "ui-rect-10",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1168.5708159999997,
+      "y": 1017.2858639999997,
+      "w": 39.285847999999994,
+      "h": 39.285847999999994,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 10,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

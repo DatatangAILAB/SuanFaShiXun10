@@ -1,0 +1,91 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 420.12505919999984,
+      "y": 730.7414687999998,
+      "w": 154.59213055999996,
+      "h": 84.69345023999998,
+      "id": "ui-rect-0",
+      "Category": "City bus",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 522.0234991999998,
+      "y": 770.8592975999998,
+      "w": 108.23592751999998,
+      "h": 65.23305711999998,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 604.3874031999999,
+      "y": 767.9512063999998,
+      "w": 130.82914543999996,
+      "h": 83.81948623999997,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 513.4913055999998,
+      "y": 755.2316687999997,
+      "w": 227.04086495999994,
+      "h": 177.04090431999995,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 676.6555823999998,
+      "y": 760.4216703999997,
+      "w": 103.60295791999997,
+      "h": 58.04849679999998,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 981.8591775999998,
+      "y": 701.1457823999998,
+      "w": 270.40907151999994,
+      "h": 193.36808847999993,
+      "id": "ui-rect-6",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1161.9994847999997,
+      "y": 612.1512767999999,
+      "w": 435.39926079999987,
+      "h": 408.8000223999999,
+      "id": "ui-rect-7",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

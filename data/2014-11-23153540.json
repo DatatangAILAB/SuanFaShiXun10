@@ -1,0 +1,155 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 0,
+      "y": 675.0004799999998,
+      "w": 188.50005999999996,
+      "h": 101.99996799999997,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 211.49967999999996,
+      "y": 595.99876,
+      "w": 199.00075999999996,
+      "h": 168.00002799999996,
+      "id": "ui-rect-1",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 440.4982399999999,
+      "y": 612.0001999999998,
+      "w": 122.00000399999998,
+      "h": 92.00004799999998,
+      "id": "ui-rect-2",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 442.50135999999986,
+      "y": 604.0014399999998,
+      "w": 23.000011999999995,
+      "h": 77.99996399999999,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 477.4991199999999,
+      "y": 592.0003599999999,
+      "w": 111.00009199999997,
+      "h": 84.99990799999998,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 743.5005199999998,
+      "y": 611.0005999999998,
+      "w": 25.999987999999995,
+      "h": 48.99980399999999,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 799.4996799999998,
+      "y": 599.9991199999998,
+      "w": 38.00008799999999,
+      "h": 54.999951999999986,
+      "id": "ui-rect-6",
+      "Category": "Tricycle",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 828.4998399999998,
+      "y": 612.0001999999998,
+      "w": 29.999955999999994,
+      "h": 25.999987999999995,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 865.5007199999998,
+      "y": 607.9998399999998,
+      "w": 40.00007199999999,
+      "h": 31.99993999999999,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 914.5007199999998,
+      "y": 605.0010399999998,
+      "w": 51.000179999999986,
+      "h": 31.99993999999999,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1188.5008799999998,
+      "y": 500.99951999999985,
+      "w": 107.99991999999997,
+      "h": 317.00059999999996,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 865.5007199999998,
+      "y": 507.0813999999998,
+      "w": 17.857109199999996,
+      "h": 19.002493999999995,
+      "id": "ui-rect-11",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 884.1363999999998,
+      "y": 506.5600399999999,
+      "w": 17.700897199999996,
+      "h": 16.659705999999996,
+      "id": "ui-rect-12",
+      "Category": "Prohibitory signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 3
+  }
+}

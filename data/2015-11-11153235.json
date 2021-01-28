@@ -1,0 +1,97 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 419.9993839999999,
+      "y": 1067.3089839999998,
+      "w": 334.6006159999999,
+      "h": 242.19998319999993,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 685.9999999999999,
+      "y": 1130.3112239999998,
+      "w": 203.00002239999998,
+      "h": 165.20005039999995,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 999.6007839999997,
+      "y": 1184.9113359999997,
+      "w": 61.60005599999999,
+      "h": 54.60011199999999,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1091.9994959999997,
+      "y": 1137.3111679999997,
+      "w": 74.19995519999999,
+      "h": 88.20011759999997,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1184.9991439999997,
+      "y": 1186.3601679999997,
+      "w": 38.00000959999999,
+      "h": 31.99997919999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1256.0001439999996,
+      "y": 1148.3612559999997,
+      "w": 95.99993759999997,
+      "h": 118.99987119999997,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1448.0005679999997,
+      "y": 1174.3606559999996,
+      "w": 32.99989279999999,
+      "h": 57.99992799999999,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

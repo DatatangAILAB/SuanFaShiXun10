@@ -1,0 +1,185 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 476.49428571428575,
+      "y": 523.9578571428572,
+      "w": 119.28571428571429,
+      "h": 61.4285,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 723.6357142857144,
+      "y": 553.9592857142858,
+      "w": 140.71428571428572,
+      "h": 85,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1013.6428571428571,
+      "y": 557.5321428571428,
+      "w": 26.4285,
+      "h": 55,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1024.35,
+      "y": 553.9592857142858,
+      "w": 43.57142857142858,
+      "h": 75.71428571428572,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1022.9214285714286,
+      "y": 553.9592857142858,
+      "w": 42.85707142857143,
+      "h": 65.7145,
+      "id": "ui-rect-5",
+      "Category": "Sitting people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1114.35,
+      "y": 557.5321428571428,
+      "w": 22.857714285714287,
+      "h": 46.4285,
+      "id": "ui-rect-7",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1028.642857142857,
+      "y": 218.24571428571429,
+      "w": 48.57221428571428,
+      "h": 47.856928571428575,
+      "id": "ui-rect-9",
+      "Category": "Speed limit",
+      "Content": "50"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1086.4928571428572,
+      "y": 212.53285714285715,
+      "w": 49.28557142857143,
+      "h": 47.14300000000001,
+      "id": "ui-rect-10",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1145.7785714285715,
+      "y": 211.10285714285715,
+      "w": 50.71442857142858,
+      "h": 48.571285714285715,
+      "id": "ui-rect-11",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1323.642857142857,
+      "y": 197.53285714285715,
+      "w": 56.428785714285716,
+      "h": 52.14300000000001,
+      "id": "ui-rect-12",
+      "Category": "Speed limit",
+      "Content": "40"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1395.7785714285715,
+      "y": 188.96071428571432,
+      "w": 71.42928571428573,
+      "h": 54.28571428571429,
+      "id": "ui-rect-13",
+      "Category": "Vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1459.3500000000001,
+      "y": 186.10285714285715,
+      "w": 73.57214285714286,
+      "h": 53.571285714285715,
+      "id": "ui-rect-14",
+      "Category": "Non-motor vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1225.0714285714287,
+      "y": 368.2457142857143,
+      "w": 54.28571428571429,
+      "h": 50.000214285714286,
+      "id": "ui-rect-15",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1406.5,
+      "y": 523.2471428571429,
+      "w": 22.85707142857143,
+      "h": 22.85707142857143,
+      "id": "ui-rect-17",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 984.0928571428573,
+      "y": 549.5450000000001,
+      "w": 24.000071428571427,
+      "h": 24.00057142857143,
+      "id": "ui-rect-18",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1226.4928571428572,
+      "y": 418.9607142857143,
+      "w": 52.85714285714286,
+      "h": 49.28571428571429,
+      "id": "ui-rect-19",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 3,
+    "Prohibitory signs": 4,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

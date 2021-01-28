@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 584.4264495999998,
+      "y": 591.3536227199999,
+      "w": 43.73170643519999,
+      "h": 36.80759891199999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 942.2999174399996,
+      "y": 562.5585257599998,
+      "w": 52.84260634239998,
+      "h": 68.87750620799997,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 977.2853686399998,
+      "y": 563.6556867199998,
+      "w": 19.67935663679999,
+      "h": 48.46945183359998,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

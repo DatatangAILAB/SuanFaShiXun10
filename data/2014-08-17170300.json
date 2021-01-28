@@ -1,0 +1,133 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 417.49928571428575,
+      "y": 732.8571428571429,
+      "w": 79.28571428571429,
+      "h": 68.57142857142857,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 581.0707142857143,
+      "y": 748.5714285714287,
+      "w": 22.142928571428573,
+      "h": 55.00007142857143,
+      "id": "ui-rect-1",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 608.9278571428572,
+      "y": 749.2857142857143,
+      "w": 23.571428571428573,
+      "h": 57.14292857142858,
+      "id": "ui-rect-2",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 795.3571428571429,
+      "y": 749.2857142857143,
+      "w": 72.14285714285715,
+      "h": 52.85707142857143,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 863.9285714285714,
+      "y": 752.1428571428572,
+      "w": 12.142928571428572,
+      "h": 25.714285714285715,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 897.5000000000001,
+      "y": 752.8571428571429,
+      "w": 10.714285714285715,
+      "h": 25.714285714285715,
+      "id": "ui-rect-8",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1102.5,
+      "y": 723.5714285714287,
+      "w": 92.14285714285715,
+      "h": 70.71442857142858,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1216.7928571428572,
+      "y": 732.8571428571429,
+      "w": 22.85707142857143,
+      "h": 62.14292857142858,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1499.6285714285716,
+      "y": 722.1428571428572,
+      "w": 100,
+      "h": 94.28571428571429,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Other",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1487.5,
+      "y": 718.5714285714287,
+      "w": 90.71428571428572,
+      "h": 55,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Other",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 5,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 814.6865889212829,
+      "y": 606.7784256559769,
+      "w": 17.492711370262395,
+      "h": 17.85714285714286,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 816.5087463556852,
+      "y": 608.6005830903791,
+      "w": 13.483965014577263,
+      "h": 14.577259475218664,
+      "id": "ui-rect-1",
+      "Category": "Going straight",
+      "Color": "Green",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 720.2999999999998,
+      "y": 573.4959999999999,
+      "w": 1248.5199999999998,
+      "h": 1009.7919999999998,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 2,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

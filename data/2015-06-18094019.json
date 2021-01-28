@@ -1,0 +1,61 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1304.1408799999997,
+      "y": 548.7137599999999,
+      "w": 124.99997999999997,
+      "h": 56.428595999999985,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 961.2859199999998,
+      "y": 547.2868799999999,
+      "w": 170.71462799999995,
+      "h": 68.57138399999998,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 702.7148799999999,
+      "y": 547.2868799999999,
+      "w": 70.71425199999997,
+      "h": 37.857203999999996,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 931.9995999999998,
+      "y": 527.2870399999998,
+      "w": 29.99975999999999,
+      "h": 30.714375999999994,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

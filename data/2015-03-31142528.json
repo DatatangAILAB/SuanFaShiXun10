@@ -1,0 +1,139 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1856.3994175999994,
+      "y": 840.6342783999999,
+      "w": 735.0018031999998,
+      "h": 821.8027551999998,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1914.2884879999995,
+      "y": 993.8910687999997,
+      "w": 38.57158479999999,
+      "h": 63.56849183999998,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1839.2889311999995,
+      "y": 1094.6101375999997,
+      "w": 117.85683055999996,
+      "h": 120.71382847999996,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1715.0016463999993,
+      "y": 1123.1801167999997,
+      "w": 49.28580719999999,
+      "h": 73.57124991999997,
+      "id": "ui-rect-3",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1672.8592943999995,
+      "y": 1116.7492783999996,
+      "w": 67.14271647999998,
+      "h": 71.42878959999997,
+      "id": "ui-rect-4",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1750.7093183999996,
+      "y": 1118.1783535999998,
+      "w": 41.42858271999999,
+      "h": 66.42856303999997,
+      "id": "ui-rect-5",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 620.9984815999999,
+      "y": 813.4549583999998,
+      "w": 1083.0008223999996,
+      "h": 1002.9995023999998,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 395.0009951999999,
+      "y": 1004.4516271999996,
+      "w": 630.9981663999998,
+      "h": 409.99860159999986,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 979.4543359999998,
+      "w": 581.9985583999999,
+      "h": 288.00014207999993,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1077.0002431999997,
+      "y": 660.4555551999998,
+      "w": 48.99999215999999,
+      "h": 124.99990159999996,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1081.9981647999998,
+      "y": 744.4559807999998,
+      "w": 36.999986239999984,
+      "h": 35.00001086399999,
+      "id": "ui-rect-10",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 4,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 2
+  }
+}

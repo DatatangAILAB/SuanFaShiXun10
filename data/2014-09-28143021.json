@@ -1,0 +1,55 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1127.4997999999998,
+      "y": 485.0000399999999,
+      "w": 52.14285999999999,
+      "h": 50.714215999999986,
+      "id": "ui-rect-0",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 950.3569599999997,
+      "y": 473.5712799999999,
+      "w": 23.571351999999994,
+      "h": 23.571351999999994,
+      "id": "ui-rect-1",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 931.3057599999997,
+      "y": 583.0921599999998,
+      "w": 20.408107999999995,
+      "h": 25.51018399999999,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 521.49916,
+      "y": 588.9995999999999,
+      "w": 52.99996799999999,
+      "h": 29.999955999999994,
+      "id": "ui-rect-3",
+      "Category": "Interurban coach",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

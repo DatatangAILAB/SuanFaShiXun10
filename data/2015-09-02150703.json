@@ -1,0 +1,99 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 127.5001043478261,
+      "y": 1115.0013913043479,
+      "w": 36.99986086956522,
+      "h": 87.9999652173913,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1323.5008695652175,
+      "y": 789.9996521739131,
+      "w": 38.99989565217391,
+      "h": 85.99993043478261,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1511.4991304347827,
+      "y": 776.9989565217392,
+      "w": 40.99993043478261,
+      "h": 87.0001043478261,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1685.5012173913044,
+      "y": 769.0006956521739,
+      "w": 45,
+      "h": 87.0001043478261,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1848.4998260869568,
+      "y": 917.0013913043479,
+      "w": 40.000069565217395,
+      "h": 40.000069565217395,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1852.5005217391304,
+      "y": 963.9986086956523,
+      "w": 42.000104347826095,
+      "h": 40.99993043478261,
+      "id": "ui-rect-5",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1854.5008695652175,
+      "y": 1012.9993043478261,
+      "w": 22.00000695652174,
+      "h": 22.00000695652174,
+      "id": "ui-rect-6",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1876.5015652173913,
+      "y": 1010.9989565217393,
+      "w": 22.999993043478263,
+      "h": 24.99999652173913,
+      "id": "ui-rect-7",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

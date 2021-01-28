@@ -1,0 +1,61 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 491.442,
+      "y": 673.086,
+      "w": 40.8161,
+      "h": 108,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 675.732,
+      "y": 660.841,
+      "w": 87.755,
+      "h": 87.245,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 821.443,
+      "y": 624.247,
+      "w": 144.999,
+      "h": 120,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 738.444,
+      "y": 642.25,
+      "w": 91,
+      "h": 47,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

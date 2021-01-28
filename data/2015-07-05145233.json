@@ -1,0 +1,153 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1501.3325599999996,
+      "y": 315.66779999999994,
+      "w": 94.00003199999998,
+      "h": 91.00005599999999,
+      "id": "ui-rect-0",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1309.3309599999995,
+      "y": 399.6675199999999,
+      "w": 66.00005999999998,
+      "h": 60.99990399999999,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1045.9500799999998,
+      "y": 545.4758399999998,
+      "w": 206.42915999999994,
+      "h": 138.57101999999998,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 940.9509199999998,
+      "y": 484.0494399999999,
+      "w": 144.99942799999997,
+      "h": 152.85765599999996,
+      "id": "ui-rect-3",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 747.3773999999999,
+      "y": 554.0488799999998,
+      "w": 168.57117199999996,
+      "h": 129.28591199999997,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 900.6278399999999,
+      "y": 573.8585999999999,
+      "w": 72.88632399999999,
+      "h": 45.554123999999995,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 643.8090399999999,
+      "y": 503.33387999999985,
+      "w": 215.71367999999995,
+      "h": 127.85687599999996,
+      "id": "ui-rect-6",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 638.0956399999999,
+      "y": 577.6198399999998,
+      "w": 74.99998799999999,
+      "h": 48.57154399999999,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 653.8089599999998,
+      "y": 580.4755599999999,
+      "w": 93.57137999999998,
+      "h": 49.28576799999999,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 268.0946799999999,
+      "y": 501.1896399999999,
+      "w": 341.4280799999999,
+      "h": 131.42897599999998,
+      "id": "ui-rect-9",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 210.95283999999995,
+      "y": 566.9025599999999,
+      "w": 249.28455999999994,
+      "h": 87.14277599999998,
+      "id": "ui-rect-10",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 519.0471999999999,
+      "w": 199.52211999999994,
+      "h": 140.00005599999997,
+      "id": "ui-rect-11",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 10,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

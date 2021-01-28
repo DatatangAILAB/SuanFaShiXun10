@@ -1,0 +1,31 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 0,
+      "y": 815.2,
+      "w": 264.6,
+      "h": 122.99571428571429,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 710.9000000000001,
+      "y": 864.2000000000002,
+      "w": 33.6,
+      "h": 27,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

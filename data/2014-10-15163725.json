@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 755.3024639999998,
+      "y": 554.4005039999998,
+      "w": 141.39996639999995,
+      "h": 154.00151199999996,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 1022.0000559999999,
+      "w": 570.4929663999998,
+      "h": 615.9928767999999,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2.1000144815999993,
+      "y": 1272.5991487999995,
+      "w": 753.1994623999998,
+      "h": 487.19555359999987,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 715.3558607999997,
+      "y": 1352.1433183999995,
+      "w": 299.2806163199999,
+      "h": 200.00253167999995,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 802.6562207999997,
+      "y": 1353.1267679999996,
+      "w": 114.06709215999996,
+      "h": 151.96870191999997,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1912.4983023999994,
+      "y": 1275.0001487999996,
+      "w": 470.9993679999999,
+      "h": 478.99757919999985,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2079.5041791999993,
+      "y": 1243.9984367999996,
+      "w": 220.00036463999993,
+      "h": 494.99784319999986,
+      "id": "ui-rect-5",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1853.3184543999996,
+      "y": 1343.8800367999995,
+      "w": 244.89777423999993,
+      "h": 201.02055567999994,
+      "id": "ui-rect-6",
+      "Category": "Cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1895.3609247999993,
+      "y": 1317.8570383999995,
+      "w": 195.00038431999994,
+      "h": 150.71403535999997,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2300.1157423999994,
+      "y": 1336.7269775999996,
+      "w": 64.78090079999998,
+      "h": 119.53407311999997,
+      "id": "ui-rect-8",
+      "Category": "Pedestrians"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2326.7841295999997,
+      "y": 1351.3058495999994,
+      "w": 195.40797807999996,
+      "h": 194.09722415999997,
+      "id": "ui-rect-9",
+      "Category": "Cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2417.8146831999993,
+      "y": 1372.4500159999996,
+      "w": 89.57650799999998,
+      "h": 171.93964367999996,
+      "id": "ui-rect-10",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2290.008492799999,
+      "y": 1353.5723935999997,
+      "w": 301.4284548799999,
+      "h": 138.57227439999997,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "Partial truncation (15%~35%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 7,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

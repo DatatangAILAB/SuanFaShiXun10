@@ -1,0 +1,97 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 619.5000000000001,
+      "y": 727.0000000000001,
+      "w": 73.00000000000001,
+      "h": 55.00000000000001,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 801.5000000000001,
+      "y": 742.0000000000001,
+      "w": 26.000000000000004,
+      "h": 28.000000000000004,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 983.5000000000002,
+      "y": 682.0000000000001,
+      "w": 304.99897959183676,
+      "h": 198.00000000000003,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 928.826530612245,
+      "y": 749.0000000000001,
+      "w": 17.530612244897963,
+      "h": 46.42857142857144,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 955.5000000000001,
+      "y": 768.0000000000001,
+      "w": 29.44897959183674,
+      "h": 34.18367346938776,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1321.5,
+      "y": 756.0000000000001,
+      "w": 33.00000000000001,
+      "h": 90.00000000000001,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1353.5000000000002,
+      "y": 756.0000000000001,
+      "w": 28.000000000000004,
+      "h": 81,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 5,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

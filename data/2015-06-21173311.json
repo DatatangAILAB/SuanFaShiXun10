@@ -1,0 +1,37 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1471.38,
+      "y": 1217.6,
+      "w": 34.3999,
+      "h": 45.738,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1489.5,
+      "y": 1213.6,
+      "w": 14.8,
+      "h": 32.4,
+      "id": "ui-rect-1",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

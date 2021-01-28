@@ -1,0 +1,151 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 139.29998319999999,
+      "y": 1099.0021839999997,
+      "w": 417.2005039999999,
+      "h": 259.00012319999996,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 766.0726639999998,
+      "y": 1132.6491119999998,
+      "w": 171.43002799999996,
+      "h": 117.34743439999997,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1068.4367679999998,
+      "y": 1095.6352959999997,
+      "w": 33.840105599999994,
+      "h": 47.11585199999999,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1107.6924319999998,
+      "y": 1129.3727759999997,
+      "w": 31.705547999999993,
+      "h": 36.44306399999999,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1133.9278159999997,
+      "y": 1084.9089999999997,
+      "w": 26.603491599999995,
+      "h": 33.52783839999999,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1110.2443519999997,
+      "y": 888.1230399999998,
+      "w": 35.71425759999999,
+      "h": 36.07866079999999,
+      "id": "ui-rect-5",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1160.5281519999996,
+      "y": 896.8736559999998,
+      "w": 26.603491599999995,
+      "h": 45.55396719999998,
+      "id": "ui-rect-6",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1322.3445759999997,
+      "y": 990.5208879999997,
+      "w": 28.061241599999992,
+      "h": 29.51885439999999,
+      "id": "ui-rect-7",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1321.9796239999998,
+      "y": 1021.8738319999998,
+      "w": 27.696838399999994,
+      "h": 29.51885439999999,
+      "id": "ui-rect-8",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1486.3232719999996,
+      "y": 900.8716639999998,
+      "w": 25.145823919999994,
+      "h": 44.09635439999999,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1325.6236559999998,
+      "y": 1055.0350719999997,
+      "w": 22.386567279999994,
+      "h": 44.252487999999985,
+      "id": "ui-rect-10",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1365.3430559999997,
+      "y": 1149.0472559999998,
+      "w": 63.77549919999999,
+      "h": 49.56267679999999,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1464.8350079999996,
+      "y": 1141.0347759999997,
+      "w": 19.679227119999997,
+      "h": 65.23338639999999,
+      "id": "ui-rect-12",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 6,
+    "Dontcare": 0
+  }
+}

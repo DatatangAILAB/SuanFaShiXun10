@@ -1,0 +1,43 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 887.799,
+      "y": 410.201,
+      "w": 45.9999,
+      "h": 44,
+      "id": "ui-rect-0",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 139.8,
+      "y": 522.2,
+      "w": 73.9999,
+      "h": 34.0001,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 851.835,
+      "y": 0,
+      "w": 122.965,
+      "h": 90,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

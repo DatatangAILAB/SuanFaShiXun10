@@ -1,0 +1,79 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 0,
+      "y": 748.247,
+      "w": 51.4443,
+      "h": 246.996,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 137.444,
+      "y": 579.673,
+      "w": 1558,
+      "h": 636.579,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1689.3,
+      "y": 570.793,
+      "w": 38.6299,
+      "h": 40.0875,
+      "id": "ui-rect-2",
+      "Category": "Speed limit",
+      "Content": "5"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1687.9,
+      "y": 611.652,
+      "w": 38.6001,
+      "h": 40.8002,
+      "id": "ui-rect-3",
+      "Category": "No honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1687.08,
+      "y": 653.25,
+      "w": 37.1993,
+      "h": 40.0002,
+      "id": "ui-rect-4",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2516.42,
+      "y": 848.439,
+      "w": 72.8062,
+      "h": 420,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Other",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 3,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

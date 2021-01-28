@@ -1,0 +1,245 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 1209.7390479999997,
+      "y": 747.9156159999999,
+      "w": 55.612373599999984,
+      "h": 23.469431999999998,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1336.7807599999996,
+      "y": 737.2002959999998,
+      "w": 53.57138639999999,
+      "h": 25.000007759999992,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1463.8252159999997,
+      "y": 730.0576639999998,
+      "w": 52.040783199999986,
+      "h": 21.938856239999996,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1213.8193759999997,
+      "y": 752.5063279999999,
+      "w": 14.285318879999995,
+      "h": 14.795894959999995,
+      "id": "ui-rect-3",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1340.8583439999998,
+      "y": 743.3221599999998,
+      "w": 12.245401839999996,
+      "h": 15.815812319999996,
+      "id": "ui-rect-4",
+      "Category": "Going straight",
+      "Color": "Red",
+      "Association_id": "ui-rect-1",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1469.4394399999996,
+      "y": 735.1560159999998,
+      "w": 10.714304719999998,
+      "h": 13.775483679999997,
+      "id": "ui-rect-5",
+      "Category": "Going straight",
+      "Color": "Red",
+      "Association_id": "ui-rect-2",
+      "Number": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1638.3079439999997,
+      "y": 704.5466959999999,
+      "w": 20.918307759999994,
+      "h": 25.000007759999992,
+      "id": "ui-rect-6",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1535.2542799999997,
+      "y": 709.6477919999999,
+      "w": 25.509595999999995,
+      "h": 26.020364159999993,
+      "id": "ui-rect-7",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1669.4303919999998,
+      "y": 701.4843919999998,
+      "w": 29.591844799999993,
+      "h": 25.000007759999992,
+      "id": "ui-rect-8",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1693.9151039999997,
+      "y": 700.9740079999998,
+      "w": 30.612338399999995,
+      "h": 23.979623919999995,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1608.2062639999997,
+      "y": 781.5872399999997,
+      "w": 23.979623919999995,
+      "h": 26.020364159999993,
+      "id": "ui-rect-10",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1611.7789519999997,
+      "y": 823.9381359999999,
+      "w": 22.449048159999993,
+      "h": 26.020775759999992,
+      "id": "ui-rect-11",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1614.3253839999998,
+      "y": 851.4851519999997,
+      "w": 20.918307759999994,
+      "h": 23.469431999999998,
+      "id": "ui-rect-12",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1664.3347839999994,
+      "y": 840.7725759999998,
+      "w": 28.571625599999994,
+      "h": 27.040747999999994,
+      "id": "ui-rect-13",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1615.7824479999995,
+      "y": 849.2213519999998,
+      "w": 301.4283999999999,
+      "h": 152.85753839999995,
+      "id": "ui-rect-14",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1392.2095599999998,
+      "y": 928.5064879999998,
+      "w": 14.285730479999996,
+      "h": 32.14294159999999,
+      "id": "ui-rect-15",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1087.2112159999997,
+      "y": 859.9366719999997,
+      "w": 35.71425759999999,
+      "h": 35.71425759999999,
+      "id": "ui-rect-17",
+      "Category": "Driving by the right road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 809.3510319999997,
+      "y": 935.6491199999998,
+      "w": 354.99951199999987,
+      "h": 132.14308239999997,
+      "id": "ui-rect-18",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 305.0669439999999,
+      "y": 947.7940639999998,
+      "w": 182.14287839999997,
+      "h": 170.71466719999995,
+      "id": "ui-rect-19",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 447.9195839999999,
+      "y": 973.5053439999998,
+      "w": 72.85704159999999,
+      "h": 60.00002959999998,
+      "id": "ui-rect-20",
+      "Category": "Tricycle",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 58.63626159999998,
+      "y": 1009.9401759999997,
+      "w": 30.714415199999994,
+      "h": 51.42859679999999,
+      "id": "ui-rect-22",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 103.63594079999997,
+      "y": 994.9359839999998,
+      "w": 37.85732159999999,
+      "h": 67.85719919999998,
+      "id": "ui-rect-23",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 2,
+    "Traffic lights": 6,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 10,
+    "Dontcare": 0
+  }
+}

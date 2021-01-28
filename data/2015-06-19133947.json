@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1128.9991999999997,
+      "y": 690.3629599999998,
+      "w": 19.000004799999996,
+      "h": 45.00003199999999,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1342.9998399999995,
+      "y": 697.3640799999998,
+      "w": 59.00031199999999,
+      "h": 161.00008399999996,
+      "id": "ui-rect-1",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 939.0007199999998,
+      "y": 690.3649199999998,
+      "w": 27.999971999999993,
+      "h": 24.999995999999996,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

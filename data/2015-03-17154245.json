@@ -1,0 +1,94 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 671.0001199999998,
+      "y": 667.3643199999999,
+      "w": 184.00009599999996,
+      "h": 153.57207599999995,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 908.5717199999998,
+      "y": 688.8321999999998,
+      "w": 41.42851999999999,
+      "h": 28.57150799999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 902.8563599999998,
+      "y": 686.6899199999998,
+      "w": 31.42879599999999,
+      "h": 28.571115999999993,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1137.8642799999998,
+      "y": 655.9747599999998,
+      "w": 74.28576399999999,
+      "h": 59.99991199999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1110.2067199999997,
+      "y": 676.2039199999998,
+      "w": 58.163195999999985,
+      "h": 57.653007999999986,
+      "id": "ui-rect-5",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1117.3509199999996,
+      "y": 665.4905599999998,
+      "w": 17.346921199999993,
+      "h": 45.40790799999999,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1068.5723999999998,
+      "y": 672.4034799999998,
+      "w": 14.285714799999997,
+      "h": 44.285611999999986,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

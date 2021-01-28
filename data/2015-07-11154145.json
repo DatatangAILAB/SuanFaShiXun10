@@ -1,0 +1,149 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 0,
+      "y": 0,
+      "w": 540.5709898623998,
+      "h": 1328.0972073599994,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 109.75955217919994,
+      "y": 873.5993553279995,
+      "w": 301.8402743999998,
+      "h": 321.0481207359999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 204.3997960703999,
+      "y": 830.7186478079997,
+      "w": 236.59985677439988,
+      "h": 256.1999919359999,
+      "id": "ui-rect-2",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 452.6252564287998,
+      "y": 836.1323841919996,
+      "w": 30.247953200639987,
+      "h": 32.06995032191998,
+      "id": "ui-rect-3",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 483.2350791295998,
+      "y": 835.7709664639996,
+      "w": 29.883297772159985,
+      "h": 32.43453045503998,
+      "id": "ui-rect-4",
+      "Category": "Non-motor vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 639.9985127423997,
+      "y": 936.6818079359995,
+      "w": 141.42953354879992,
+      "h": 68.57140905663996,
+      "id": "ui-rect-5",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 705.5988421887997,
+      "y": 574.9952755007997,
+      "w": 885.9176762239996,
+      "h": 999.5986107519996,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1726.801197631999,
+      "y": 808.1375693439995,
+      "w": 858.6005196159996,
+      "h": 741.4288921983996,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1756.158858495999,
+      "y": 896.4364380159996,
+      "w": 272.43969518079984,
+      "h": 303.80021262079987,
+      "id": "ui-rect-8",
+      "Category": "Cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 2466.796466175999,
+      "y": 186.70990419199993,
+      "w": 79.80028138879996,
+      "h": 190.4001297855999,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 2485.0028842239985,
+      "y": 196.50959529599993,
+      "w": 40.60001106559998,
+      "h": 49.000036722559976,
+      "id": "ui-rect-10",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 2134.999932799999,
+      "y": 699.1098880639997,
+      "w": 43.40001961791997,
+      "h": 90.99971323519995,
+      "id": "ui-rect-11",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 5,
+    "Traffic lights": 3,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

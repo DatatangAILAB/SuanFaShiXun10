@@ -1,0 +1,73 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 716.837,
+      "y": 562.939,
+      "w": 9.69388,
+      "h": 22.449,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 763.265,
+      "y": 563.449,
+      "w": 8.67347,
+      "h": 21.9388,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1120.92,
+      "y": 597.122,
+      "w": 139.796,
+      "h": 69.3878,
+      "id": "ui-rect-2",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1318.88,
+      "y": 594.571,
+      "w": 177.551,
+      "h": 69.898,
+      "id": "ui-rect-3",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1558.16,
+      "y": 594.571,
+      "w": 41.3265,
+      "h": 66.8367,
+      "id": "ui-rect-4",
+      "Category": "City bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 2,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

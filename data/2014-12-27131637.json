@@ -1,0 +1,109 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 444.3002479999999,
+      "y": 583.5994079999998,
+      "w": 113.11426559999997,
+      "h": 56.19986399999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 704.2640639999998,
+      "y": 563.7794959999999,
+      "w": 132.23637839999998,
+      "h": 54.92500159999999,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 917.4509119999998,
+      "y": 587.5150959999999,
+      "w": 10.932919199999997,
+      "h": 36.18293279999999,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1068.3297519999999,
+      "y": 559.0351199999999,
+      "w": 41.64952959999999,
+      "h": 53.72998959999999,
+      "id": "ui-rect-4",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1243.6987919999997,
+      "y": 577.6229759999999,
+      "w": 12.199988639999997,
+      "h": 33.97593359999999,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1287.8991439999998,
+      "y": 567.7308559999999,
+      "w": 13.650000559999997,
+      "h": 44.20007759999999,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1308.4434719999997,
+      "y": 566.6030719999999,
+      "w": 12.857999839999996,
+      "h": 44.400115199999995,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1509.8997199999997,
+      "y": 568.3949039999999,
+      "w": 88.900112,
+      "h": 153.99986559999996,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

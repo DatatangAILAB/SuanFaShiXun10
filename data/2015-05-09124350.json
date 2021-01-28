@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 722.2225517695996,
+      "w": 2587.314219391999,
+      "h": 1221.6295683199994,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1421.3956879359994,
+      "y": 946.4325570559995,
+      "w": 1171.6861560319994,
+      "h": 718.3772177343997,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1479.0192269439992,
+      "y": 950.4232111359995,
+      "w": 139.9439560959999,
+      "h": 266.1683446463999,
+      "id": "ui-rect-2",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1284.1924829439995,
+      "y": 964.1420257279996,
+      "w": 205.8002897663999,
+      "h": 255.19178706559987,
+      "id": "ui-rect-3",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1687.5647855359991,
+      "y": 903.7777356159996,
+      "w": 142.68771901439993,
+      "h": 342.9997299903998,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1854.946370815999,
+      "y": 837.9168842239997,
+      "w": 153.66352364159994,
+      "h": 458.24906686719976,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

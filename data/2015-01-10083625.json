@@ -1,0 +1,109 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 759.5,
+      "y": 541,
+      "w": 46.9999,
+      "h": 63,
+      "id": "ui-rect-0",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 822.191,
+      "y": 568.997,
+      "w": 33,
+      "h": 44.8981,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 934.949,
+      "y": 584.697,
+      "w": 25.5102,
+      "h": 34.6939,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 974.746,
+      "y": 581.634,
+      "w": 118.878,
+      "h": 125,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1091.58,
+      "y": 594.899,
+      "w": 19.3878,
+      "h": 28.0613,
+      "id": "ui-rect-4",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1176.28,
+      "y": 559.693,
+      "w": 171.429,
+      "h": 168.878,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1711.07,
+      "y": 654.285,
+      "w": 87.143,
+      "h": 34.2856,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2021.8,
+      "y": 664.999,
+      "w": 71.4284,
+      "h": 34.2856,
+      "id": "ui-rect-7",
+      "Category": "Medium bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2172.5,
+      "y": 652.142,
+      "w": 159.287,
+      "h": 54.9997,
+      "id": "ui-rect-8",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 4,
+    "Dontcare": 0
+  }
+}

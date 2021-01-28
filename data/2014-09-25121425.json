@@ -1,0 +1,157 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1375.7298799999996,
+      "y": 673.5971199999999,
+      "w": 198.46959999999996,
+      "h": 101.53093999999997,
+      "id": "ui-rect-0",
+      "Category": "Medium bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1567.5609599999996,
+      "y": 743.4926799999998,
+      "w": 30.614219999999992,
+      "h": 98.46922399999998,
+      "id": "ui-rect-1",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1206.8699999999997,
+      "y": 680.7393599999998,
+      "w": 116.32697999999996,
+      "h": 174.49095999999994,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1251.2306799999997,
+      "y": 680.2297599999998,
+      "w": 94.89575199999999,
+      "h": 48.979615999999986,
+      "id": "ui-rect-3",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 773.1200399999998,
+      "y": 587.1885599999999,
+      "w": 351.0830399999999,
+      "h": 408.1601999999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 523.1161599999999,
+      "y": 747.5420399999998,
+      "w": 168.00590799999995,
+      "h": 110.05909599999997,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 660.5101999999998,
+      "y": 724.5786799999998,
+      "w": 100.58308399999999,
+      "h": 81.99640399999997,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 715.5430799999998,
+      "y": 729.3218799999999,
+      "w": 84.54793199999997,
+      "h": 53.20713999999999,
+      "id": "ui-rect-9",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 610.2185599999999,
+      "y": 725.3077999999998,
+      "w": 77.98859599999999,
+      "h": 57.58009599999999,
+      "id": "ui-rect-10",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 558.8979199999999,
+      "y": 741.4562399999998,
+      "w": 72.96060799999998,
+      "h": 51.53055599999999,
+      "id": "ui-rect-11",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 275.73671999999993,
+      "y": 716.9640799999999,
+      "w": 280.1016399999999,
+      "h": 108.16397199999997,
+      "id": "ui-rect-12",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 222.15815999999995,
+      "y": 801.3009199999998,
+      "w": 28.89412399999999,
+      "h": 35.922487999999994,
+      "id": "ui-rect-13",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1.0317302799999997,
+      "y": 726.6072799999998,
+      "w": 209.40639999999996,
+      "h": 211.00575999999995,
+      "id": "ui-rect-14",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 7,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 3,
+    "Dontcare": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1136.74,
+      "y": 911.608,
+      "w": 197.147,
+      "h": 117.14299999999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1896.21,
+      "y": 432.948,
+      "w": 232.401,
+      "h": 212.799,
+      "id": "ui-rect-1",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

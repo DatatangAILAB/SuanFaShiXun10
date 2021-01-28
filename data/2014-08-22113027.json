@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 21.500106006399992,
+      "y": 1210.9967878399996,
+      "w": 153.99998633599995,
+      "h": 200.00007305599993,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 131.50011929599995,
+      "y": 1029.9974988799997,
+      "w": 447.9998624639998,
+      "h": 279.9997795839999,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1037.5001436799996,
+      "y": 1023.3983983999996,
+      "w": 197.39969401599993,
+      "h": 167.80001235199992,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1439.4913142399996,
+      "y": 1064.9990847999998,
+      "w": 410.9975712639998,
+      "h": 302.9998229439999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1640.5030342399996,
+      "y": 995.0012911999996,
+      "w": 159.99995087999994,
+      "h": 205.00076060799992,
+      "id": "ui-rect-5",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2228.500635199999,
+      "y": 1024.0007612799996,
+      "w": 95.99943270399996,
+      "h": 188.99995878399992,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 444.64279999999997,
+      "y": 754.5916,
+      "w": 28.57134,
+      "h": 27.040860000000002,
+      "id": "ui-rect-0",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 442.0919999999999,
+      "y": 782.6532,
+      "w": 30.10196,
+      "h": 30.61226,
+      "id": "ui-rect-1",
+      "Category": "Honking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 143.1122,
+      "y": 794.3879999999999,
+      "w": 21.93884,
+      "h": 26.0204,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

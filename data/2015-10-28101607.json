@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 755.5027759999998,
+      "y": 1138.9987279999998,
+      "w": 47.99969439999999,
+      "h": 50.000070399999984,
+      "id": "ui-rect-0",
+      "Category": "Tricycle",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 848.5024239999998,
+      "y": 1137.0010959999997,
+      "w": 51.99989759999998,
+      "h": 38.99992319999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 877.4982719999998,
+      "y": 1126.0004,
+      "w": 43.00012639999999,
+      "h": 52.99981119999999,
+      "id": "ui-rect-2",
+      "Category": "Tricycle",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1183.5009199999997,
+      "y": 1120.0020159999997,
+      "w": 43.00012639999999,
+      "h": 44.99995359999999,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1286.4997039999996,
+      "y": 1107.0009439999997,
+      "w": 60.00002959999998,
+      "h": 102.99988159999998,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1291.5020159999997,
+      "y": 1107.0009439999997,
+      "w": 50.99998399999998,
+      "h": 77.99984639999998,
+      "id": "ui-rect-5",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

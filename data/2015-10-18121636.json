@@ -1,0 +1,57 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1608.4994799999997,
+      "y": 680.0004399999999,
+      "w": 26.999979999999994,
+      "h": 25.999987999999995,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1582.5000799999996,
+      "y": 680.0004399999999,
+      "w": 27.999971999999993,
+      "h": 26.999979999999994,
+      "id": "ui-rect-1",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1554.4995199999996,
+      "y": 816.0009199999998,
+      "w": 16.000009199999997,
+      "h": 33.99992399999999,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1275.4993999999997,
+      "y": 814.9993599999998,
+      "w": 69.00003599999998,
+      "h": 51.99997599999999,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

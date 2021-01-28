@@ -1,0 +1,165 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 922.9992799999998,
+      "y": 576.1988399999999,
+      "w": 20.999996639999996,
+      "h": 51.99989759999998,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1026.0008079999998,
+      "y": 567.2012639999998,
+      "w": 43.00012639999999,
+      "h": 95.00002399999998,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 191.99987519999993,
+      "y": 489.20031999999986,
+      "w": 22.999988479999992,
+      "h": 38.00000959999999,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 662.9997919999998,
+      "y": 271.19994719999994,
+      "w": 76.99993279999998,
+      "h": 29.999877599999994,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 690.0007519999998,
+      "y": 276.20006399999994,
+      "w": 22.999988479999992,
+      "h": 24.000011839999992,
+      "id": "ui-rect-4",
+      "Category": "Numbers",
+      "Color": "Green",
+      "Association_id": "ui-rect-3",
+      "Number": "32"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 715.0013359999999,
+      "y": 278.20043999999996,
+      "w": 22.999988479999992,
+      "h": 20.999996639999996,
+      "id": "ui-rect-5",
+      "Category": "Turning left",
+      "Color": "Green",
+      "Association_id": "ui-rect-4",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 811.0001759999998,
+      "y": 271.19994719999994,
+      "w": 81.00013599999997,
+      "h": 31.000065599999992,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 838.9999519999998,
+      "y": 276.20006399999994,
+      "w": 21.999992559999995,
+      "h": 25.000007759999992,
+      "id": "ui-rect-7",
+      "Category": "Numbers",
+      "Color": "Green",
+      "Association_id": "ui-rect-6",
+      "Number": "32"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 864.0005359999999,
+      "y": 278.20043999999996,
+      "w": 21.999992559999995,
+      "h": 20.999996639999996,
+      "id": "ui-rect-8",
+      "Category": "Going straight",
+      "Color": "Green",
+      "Association_id": "ui-rect-7",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 963.0013119999998,
+      "y": 271.19994719999994,
+      "w": 79.99994799999997,
+      "h": 31.000065599999992,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1015.0001119999998,
+      "y": 279.19925599999993,
+      "w": 22.999988479999992,
+      "h": 22.999988479999992,
+      "id": "ui-rect-10",
+      "Category": "Turning right",
+      "Color": "Green",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1149.9994239999996,
+      "y": 362.19976799999995,
+      "w": 44.99995359999999,
+      "h": 44.00003999999999,
+      "id": "ui-rect-11",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1149.9994239999996,
+      "y": 411.1993759999999,
+      "w": 44.00003999999999,
+      "h": 44.00003999999999,
+      "id": "ui-rect-12",
+      "Category": "No U-turn",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 0,
+    "Traffic lights": 9,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

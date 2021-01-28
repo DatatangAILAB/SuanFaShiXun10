@@ -1,0 +1,92 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1007.8,
+      "y": 659.199,
+      "w": 63,
+      "h": 44.9999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1122.8,
+      "y": 615.2,
+      "w": 73.0001,
+      "h": 83.9999,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1191.8,
+      "y": 660.202,
+      "w": 37.0001,
+      "h": 28,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1301.8,
+      "y": 641.199,
+      "w": 19,
+      "h": 28,
+      "id": "ui-rect-3",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1363.8,
+      "y": 629.201,
+      "w": 37.9999,
+      "h": 108,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1369.8,
+      "y": 631.201,
+      "w": 37.0001,
+      "h": 76.0001,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1701.8,
+      "y": 597.201,
+      "w": 26,
+      "h": 28,
+      "id": "ui-rect-6",
+      "Category": "Decelerate to give way",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

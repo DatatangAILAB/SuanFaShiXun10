@@ -1,0 +1,44 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1921.9991279999995,
+      "y": 1177.4503999999997,
+      "w": 194.99989039999994,
+      "h": 203.00002239999998,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1997.3411359999996,
+      "y": 733.4547359999998,
+      "w": 94.23170399999998,
+      "h": 96.05371999999998,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "5"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 709.9990239999997,
+      "y": 1033.4507679999997,
+      "w": 193.99997679999998,
+      "h": 168.99994159999997,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

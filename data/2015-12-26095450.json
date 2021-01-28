@@ -1,0 +1,137 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 0,
+      "y": 891.4275999999998,
+      "w": 145.71502399999994,
+      "h": 144.28500799999998,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 0,
+      "y": 850.7144799999999,
+      "w": 108.57067199999997,
+      "h": 104.99994399999997,
+      "id": "ui-rect-1",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 98.21422799999998,
+      "y": 883.5719199999999,
+      "w": 265.71523999999994,
+      "h": 117.85715199999997,
+      "id": "ui-rect-2",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 151.78494799999996,
+      "y": 893.5718399999997,
+      "w": 71.42847599999999,
+      "h": 154.28571199999996,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 338.2156399999999,
+      "y": 875.0008399999997,
+      "w": 59.28588399999999,
+      "h": 159.28567199999995,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 388.2152399999999,
+      "y": 905.7140399999997,
+      "w": 45.714255999999985,
+      "h": 119.28579599999998,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 420.35531999999995,
+      "y": 905.0005999999998,
+      "w": 76.42863199999998,
+      "h": 112.85719199999997,
+      "id": "ui-rect-6",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 741.7855199999998,
+      "y": 910.7139999999997,
+      "w": 66.42851599999999,
+      "h": 67.14293599999998,
+      "id": "ui-rect-7",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 806.7849999999999,
+      "y": 886.4276399999998,
+      "w": 30.000151999999993,
+      "h": 75.71421199999997,
+      "id": "ui-rect-8",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 881.0709599999998,
+      "y": 775.7150799999998,
+      "w": 33.57146799999999,
+      "h": 34.99991599999999,
+      "id": "ui-rect-9",
+      "Category": "Height limit",
+      "Content": "4.0"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 986.7855199999998,
+      "y": 907.8563199999998,
+      "w": 27.857087999999994,
+      "h": 54.999951999999986,
+      "id": "ui-rect-10",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1358.9287599999998,
+      "y": 910.7139999999997,
+      "w": 75.71421199999997,
+      "h": 41.42871599999999,
+      "id": "ui-rect-11",
+      "Category": "Dontcare"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 5,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 6
+  }
+}

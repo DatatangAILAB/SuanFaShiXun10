@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 621.0714719999999,
+      "y": 662.8571039999998,
+      "w": 32.14294159999999,
+      "h": 34.99999439999999,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 543.9266559999999,
+      "y": 663.5732879999998,
+      "w": 15.714311759999998,
+      "h": 32.14294159999999,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 363.92848799999996,
+      "y": 637.1430799999998,
+      "w": 69.28572559999998,
+      "h": 50.000070399999984,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 330.3556479999999,
+      "y": 642.8588319999998,
+      "w": 54.99991279999999,
+      "h": 40.71437439999999,
+      "id": "ui-rect-3",
+      "Category": "Van",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 287.4998559999999,
+      "y": 647.1422159999998,
+      "w": 39.99983679999999,
+      "h": 30.714415199999994,
+      "id": "ui-rect-4",
+      "Category": "Van",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 112.49988399999997,
+      "y": 646.4287759999999,
+      "w": 30.000151999999993,
+      "h": 33.571467999999996,
+      "id": "ui-rect-5",
+      "Category": "Interurban coach",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

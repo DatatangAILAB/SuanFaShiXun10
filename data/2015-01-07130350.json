@@ -1,0 +1,94 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 868.7857142857143,
+      "y": 642.7135714285714,
+      "w": 11.000000000000002,
+      "h": 29.000357142857144,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 836.7857142857143,
+      "y": 644.9985714285715,
+      "w": 10,
+      "h": 26.428857142857144,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 828.2142857142858,
+      "y": 721.4285714285714,
+      "w": 57.142785714285715,
+      "h": 37.856785714285714,
+      "id": "ui-rect-3",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 703.215,
+      "y": 680.7135714285715,
+      "w": 9.285714285714286,
+      "h": 25.714214285714284,
+      "id": "ui-rect-4",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 694.6435714285715,
+      "y": 680.0007142857144,
+      "w": 10,
+      "h": 25,
+      "id": "ui-rect-5",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 952.8571428571429,
+      "y": 687.9935714285715,
+      "w": 13.015428571428572,
+      "h": 23.948428571428572,
+      "id": "ui-rect-7",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 198.92857142857144,
+      "y": 768.5714285714287,
+      "w": 85,
+      "h": 34.285714285714285,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

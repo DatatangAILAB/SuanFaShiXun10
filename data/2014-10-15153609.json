@@ -1,0 +1,45 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1188.5,
+      "y": 404,
+      "w": 57,
+      "h": 56,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1276.5,
+      "y": 388,
+      "w": 56,
+      "h": 54,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 828.5,
+      "y": 630,
+      "w": 37,
+      "h": 34,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

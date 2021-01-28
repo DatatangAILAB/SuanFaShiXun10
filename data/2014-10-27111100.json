@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 382.5,
+      "y": 781.0000000000001,
+      "w": 119,
+      "h": 55,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1186.5,
+      "y": 552.9992857142857,
+      "w": 47,
+      "h": 44.00000000000001,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "120"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1189.5,
+      "y": 622,
+      "w": 48.00000000000001,
+      "h": 46.00000000000001,
+      "id": "ui-rect-2",
+      "Category": "Speed limit",
+      "Content": "110"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1195.5,
+      "y": 692,
+      "w": 46.00000000000001,
+      "h": 45,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1240.5,
+      "y": 552,
+      "w": 47,
+      "h": 46.00000000000001,
+      "id": "ui-rect-4",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1245.5,
+      "y": 620.9992857142857,
+      "w": 47,
+      "h": 48.00000000000001,
+      "id": "ui-rect-5",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1250.5,
+      "y": 692,
+      "w": 49,
+      "h": 47,
+      "id": "ui-rect-6",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 3,
+    "Prohibitory signs": 3,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

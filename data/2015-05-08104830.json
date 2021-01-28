@@ -1,0 +1,79 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1573.5,
+      "y": 983,
+      "w": 481.004,
+      "h": 340,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1904.51,
+      "y": 1202,
+      "w": 118,
+      "h": 122,
+      "id": "ui-rect-1",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 429.499,
+      "y": 1128,
+      "w": 36.9999,
+      "h": 111,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 252.499,
+      "y": 1131,
+      "w": 49.0004,
+      "h": 100,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 211.499,
+      "y": 1134,
+      "w": 47.9996,
+      "h": 95,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2513.5,
+      "y": 1115,
+      "w": 78.5,
+      "h": 183,
+      "id": "ui-rect-5",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

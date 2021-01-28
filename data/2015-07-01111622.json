@@ -1,0 +1,130 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 584.0015686399997,
+      "y": 943.4024566399996,
+      "w": 247.9997894079999,
+      "h": 188.00014396799995,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 771.9979478399997,
+      "y": 966.3998108799997,
+      "w": 284.9999293119999,
+      "h": 170.00025033599994,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1045.9977628799995,
+      "y": 981.3997222399996,
+      "w": 162.00011833599996,
+      "h": 97.00032316799995,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1146.0007574399995,
+      "y": 967.4001635199996,
+      "w": 171.00006515199993,
+      "h": 113.00004934399996,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1279.9996070399995,
+      "y": 972.4019267199997,
+      "w": 127.00014588799996,
+      "h": 87.00002371199997,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1564.0029484799995,
+      "y": 890.3999014399998,
+      "w": 159.00013606399995,
+      "h": 148.99983660799995,
+      "id": "ui-rect-5",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1721.9995049599993,
+      "y": 987.4018380799997,
+      "w": 81.99987398399998,
+      "h": 44.99994920959998,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1775.9970345599993,
+      "y": 975.3976063999997,
+      "w": 75.99990943999997,
+      "h": 55.99984835199998,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1930.9979113599993,
+      "y": 933.3989302399996,
+      "w": 60.99999807999998,
+      "h": 113.00004934399996,
+      "id": "ui-rect-8",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2021.9977321599993,
+      "y": 924.4011347199996,
+      "w": 58.00001580799998,
+      "h": 119.99982870399997,
+      "id": "ui-rect-9",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 7,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

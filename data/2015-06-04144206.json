@@ -1,0 +1,58 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 167.30014335999994,
+      "y": 708.3987231999997,
+      "w": 239.40006047999992,
+      "h": 683.1978271999999,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 311.5015142399999,
+      "y": 685.9983535999999,
+      "w": 307.9998958399999,
+      "h": 711.2030911999998,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 494.4984351999999,
+      "y": 731.1832527999998,
+      "w": 154.99972431999998,
+      "h": 172.81591263999994,
+      "id": "ui-rect-2",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1953.7263535999996,
+      "y": 570.7503535999998,
+      "w": 637.9783535999998,
+      "h": 518.6159999999999,
+      "id": "ui-rect-3",
+      "Category": "Dontcare"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 1
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 15.444247279999997,
+      "y": 1107.2506479999997,
+      "w": 94.00011039999997,
+      "h": 199.00009359999996,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 413.44396799999987,
+      "y": 1137.2507999999998,
+      "w": 67.99988719999999,
+      "h": 192.99978879999995,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 452.05479199999985,
+      "y": 990.9791359999998,
+      "w": 52.11377359999999,
+      "h": 49.56267679999999,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 470.1240319999999,
+      "y": 1145.5404239999998,
+      "w": 49.48968639999998,
+      "h": 129.5919856,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 520.6328399999999,
+      "y": 1159.8201999999997,
+      "w": 222.95850639999995,
+      "h": 108.16299199999997,
+      "id": "ui-rect-4",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 801.7556399999999,
+      "y": 1186.8595759999996,
+      "w": 83.67361519999999,
+      "h": 85.20421839999999,
+      "id": "ui-rect-5",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 950.2197599999998,
+      "y": 1175.1289759999997,
+      "w": 102.04112799999997,
+      "h": 71.93862479999999,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1082.2994559999997,
+      "y": 1172.3602799999996,
+      "w": 67.34681519999998,
+      "h": 47.95908319999998,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1246.1409519999997,
+      "y": 1164.4109119999998,
+      "w": 144.38763359999996,
+      "h": 118.36710479999996,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1339.5110399999996,
+      "y": 1147.0605999999996,
+      "w": 93.87800239999997,
+      "h": 172.44914959999997,
+      "id": "ui-rect-9",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1466.4429919999998,
+      "y": 1020.2493839999997,
+      "w": 308.9990959999999,
+      "h": 440.9992159999999,
+      "id": "ui-rect-10",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1576.4417199999996,
+      "y": 1136.2492399999996,
+      "w": 343.00274399999995,
+      "h": 249.99952879999992,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 5,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 2
+  }
+}

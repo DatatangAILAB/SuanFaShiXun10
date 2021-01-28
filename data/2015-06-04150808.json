@@ -1,0 +1,62 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1318.2136799999996,
+      "y": 432.1427599999999,
+      "w": 30.714179999999995,
+      "h": 28.571311999999992,
+      "id": "ui-rect-0",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1288.4138399999997,
+      "y": 433.1697999999999,
+      "w": 29.285731999999996,
+      "h": 28.571311999999992,
+      "id": "ui-rect-1",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1258.3003999999996,
+      "y": 433.3991199999999,
+      "w": 29.999955999999994,
+      "h": 29.599919999999994,
+      "id": "ui-rect-2",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1221.7855999999997,
+      "y": 552.1437599999999,
+      "w": 20.000035999999994,
+      "h": 20.714259999999996,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "30"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 667.4995599999997,
+      "y": 579.2858399999998,
+      "w": 14.999997599999997,
+      "h": 38.57142799999999,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

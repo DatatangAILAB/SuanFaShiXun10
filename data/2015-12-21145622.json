@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 721.6876799999999,
+      "y": 827.0435599999998,
+      "w": 120.99158399999997,
+      "h": 202.48563999999993,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

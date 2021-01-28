@@ -1,0 +1,59 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 258.199,
+      "y": 610.714,
+      "w": 39.3586,
+      "h": 41.6181,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 468.948,
+      "y": 609.382,
+      "w": 35.6622,
+      "h": 24.8126,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 519.706,
+      "y": 607.559,
+      "w": 38.0052,
+      "h": 25.5102,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 845.499,
+      "y": 239,
+      "w": 72,
+      "h": 75,
+      "id": "ui-rect-3",
+      "Category": "Height limit",
+      "Content": "4.2"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

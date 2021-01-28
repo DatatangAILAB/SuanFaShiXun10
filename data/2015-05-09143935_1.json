@@ -1,0 +1,59 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Indication signs",
+      "x": 221.5,
+      "y": 533,
+      "w": 61,
+      "h": 56,
+      "id": "ui-rect-0",
+      "Category": "Allowing U-turns",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 914.5,
+      "y": 562,
+      "w": 203,
+      "h": 98,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1143.5,
+      "y": 594,
+      "w": 190,
+      "h": 107,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 779.5,
+      "y": 612,
+      "w": 17.4406,
+      "h": 26.2755,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

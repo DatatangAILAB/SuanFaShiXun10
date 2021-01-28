@@ -1,0 +1,107 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 1067.4999663999997,
+      "y": 407.8588303999999,
+      "w": 21.428598463999993,
+      "h": 56.428494079999986,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1073.2085839999997,
+      "y": 445.7101151999999,
+      "w": 12.857105295999997,
+      "h": 16.428602399999995,
+      "id": "ui-rect-1",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 774.5971743999997,
+      "y": 560.0015567999999,
+      "w": 118.00012223999997,
+      "h": 101.40287359999998,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 693.6969199999997,
+      "y": 597.2996511999999,
+      "w": 48.46946719999999,
+      "h": 48.833650879999986,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 613.1616175999998,
+      "y": 603.8611039999998,
+      "w": 57.94438943999998,
+      "h": 44.09618975999999,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 133.49982575999996,
+      "y": 535.0004239999998,
+      "w": 40.000275839999986,
+      "h": 41.99982863999999,
+      "id": "ui-rect-9",
+      "Category": "Driving by the right road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 397.5018767999999,
+      "y": 424.00123359999986,
+      "w": 20.999991151999996,
+      "h": 53.99983455999998,
+      "id": "ui-rect-10",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 400.49832479999986,
+      "y": 463.0011567999999,
+      "w": 14.999988191999996,
+      "h": 13.000012815999996,
+      "id": "ui-rect-13",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-10",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 4,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 57.99992799999999,
+      "y": 495.3660879999998,
+      "w": 28.999963999999995,
+      "h": 13.000001839999998,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 107.99999839999998,
+      "y": 497.3637199999999,
+      "w": 17.000067839999996,
+      "h": 13.000001839999998,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 140.99961679999998,
+      "y": 499.3640959999999,
+      "w": 30.000151999999993,
+      "h": 13.000001839999998,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 188.00049519999996,
+      "y": 502.3660319999999,
+      "w": 25.99994879999999,
+      "h": 13.999997759999996,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 251.00026559999992,
+      "y": 197.36357199999995,
+      "w": 507.9994639999999,
+      "h": 562.0013839999999,
+      "id": "ui-rect-4",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 799.0006639999998,
+      "y": 493.36296799999985,
+      "w": 24.999952879999995,
+      "h": 13.000001839999998,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 838.9999519999998,
+      "y": 490.3637759999999,
+      "w": 13.999997759999996,
+      "h": 13.000001839999998,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 868.0012879999998,
+      "y": 490.3637759999999,
+      "w": 25.99994879999999,
+      "h": 10.999982559999998,
+      "id": "ui-rect-8",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 908.9993919999997,
+      "y": 489.3649599999999,
+      "w": 25.99994879999999,
+      "h": 10.000014079999998,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 871.0004799999998,
+      "y": 534.3638159999999,
+      "w": 104.99998319999999,
+      "h": 78.00012079999998,
+      "id": "ui-rect-10",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1206.8002239999996,
+      "y": 524.1094879999999,
+      "w": 137.19999999999996,
+      "h": 211.39995519999997,
+      "id": "ui-rect-13",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1397.2008959999998,
+      "y": 554.9108879999999,
+      "w": 72.79996639999999,
+      "h": 99.40002799999998,
+      "id": "ui-rect-14",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 8,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

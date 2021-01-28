@@ -1,0 +1,91 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1005.4996000000001,
+      "y": 562.0006,
+      "w": 237.00039999999998,
+      "h": 150.0002,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 838.5006,
+      "y": 583.0006,
+      "w": 70,
+      "h": 52.99994,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 907.4996000000001,
+      "y": 584.9984,
+      "w": 63,
+      "h": 43.00002,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 796.5006,
+      "y": 570.0002,
+      "w": 30.00004,
+      "h": 45.99994,
+      "id": "ui-rect-3",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 739.4996000000001,
+      "y": 573.0004,
+      "w": 46.999959999999994,
+      "h": 45.99994,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 382.501,
+      "y": 644,
+      "w": 39.99996,
+      "h": 43.00002,
+      "id": "ui-rect-7",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 608.5002,
+      "y": 607.0008,
+      "w": 59.00006,
+      "h": 28,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

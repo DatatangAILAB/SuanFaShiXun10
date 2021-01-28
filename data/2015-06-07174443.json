@@ -1,0 +1,157 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 410.8964285714286,
+      "y": 577.5510204081634,
+      "w": 79.21734693877552,
+      "h": 42.16994897959184,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 494.6428571428572,
+      "y": 578.5714285714287,
+      "w": 57.85816326530613,
+      "h": 36.42882653061225,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 544.1326530612246,
+      "y": 558.1632653061225,
+      "w": 112.75510204081634,
+      "h": 77.55051020408165,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 743.2602040816328,
+      "y": 571.4336734693878,
+      "w": 84.18367346938777,
+      "h": 65.45204081632654,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 752.8061224489796,
+      "y": 430.6122448979592,
+      "w": 14.285714285714288,
+      "h": 40.81632653061225,
+      "id": "ui-rect-5",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 841.0714285714287,
+      "y": 431.12244897959187,
+      "w": 14.285714285714288,
+      "h": 38.77551020408164,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 842.5969387755104,
+      "y": 457.6530612244899,
+      "w": 10.204132653061226,
+      "h": 11.22448979591837,
+      "id": "ui-rect-8",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-7",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 967.5969387755104,
+      "y": 572.4438775510205,
+      "w": 35.204081632653065,
+      "h": 61.22448979591837,
+      "id": "ui-rect-9",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1520.3622448979593,
+      "y": 570.0000000000001,
+      "w": 79.2857142857143,
+      "h": 78.57142857142858,
+      "id": "ui-rect-11",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 753.9285714285716,
+      "y": 457.1428571428572,
+      "w": 13.571326530612247,
+      "h": 12.857040816326533,
+      "id": "ui-rect-12",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-5",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 971.0714285714287,
+      "y": 572.1428571428572,
+      "w": 30.71428571428572,
+      "h": 48.57142857142858,
+      "id": "ui-rect-13",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 970.5000000000001,
+      "y": 573.4591836734695,
+      "w": 33.05913265306123,
+      "h": 44.53091836734695,
+      "id": "ui-rect-14",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 4,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 335.8244399999999,
+      "y": 407.6431519999999,
+      "w": 307.58044799999993,
+      "h": 224.28221199999996,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 640.2986799999999,
+      "y": 537.8020479999999,
+      "w": 48.80011919999999,
+      "h": 35.99990799999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1220.6656559999997,
+      "y": 41.18085439999999,
+      "w": 137.39070799999996,
+      "h": 103.49846639999997,
+      "id": "ui-rect-2",
+      "Category": "Vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1438.0645439999996,
+      "y": 137.70297519999997,
+      "w": 98.39654719999999,
+      "h": 87.98416479999997,
+      "id": "ui-rect-3",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1437.0273119999997,
+      "y": 236.10007119999995,
+      "w": 98.65722719999998,
+      "h": 89.02578719999998,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "50"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

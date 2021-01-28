@@ -1,0 +1,81 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Indication signs",
+      "x": 1001.8563519999998,
+      "y": 588.8898399999999,
+      "w": 23.199998639999993,
+      "h": 27.31385831999999,
+      "id": "ui-rect-0",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 830.7789279999998,
+      "y": 658.5709759999999,
+      "w": 45.71421679999999,
+      "h": 36.428520799999994,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 712.9241279999999,
+      "y": 660.0005999999998,
+      "w": 14.285703039999996,
+      "h": 37.85704719999999,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 693.6365519999998,
+      "y": 659.2844159999999,
+      "w": 14.285703039999996,
+      "h": 39.285847999999994,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 594.3503999999998,
+      "y": 662.8571039999998,
+      "w": 26.42856159999999,
+      "h": 62.142819199999984,
+      "id": "ui-rect-6",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 684.2849999999999,
+      "y": 622.6629919999999,
+      "w": 19.285710079999994,
+      "h": 21.428581999999995,
+      "id": "ui-rect-7",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

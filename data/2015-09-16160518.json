@@ -1,0 +1,106 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 350.499,
+      "y": 1140,
+      "w": 93,
+      "h": 56,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1217.5,
+      "y": 1082,
+      "w": 32.8571,
+      "h": 43.7143,
+      "id": "ui-rect-1",
+      "Category": "Tricycle",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1499.5,
+      "y": 1058,
+      "w": 25,
+      "h": 29,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1559.5,
+      "y": 1047,
+      "w": 42.0001,
+      "h": 40.9999,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1604.5,
+      "y": 1049,
+      "w": 36.9999,
+      "h": 36.9999,
+      "id": "ui-rect-4",
+      "Category": "Interurban coach",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1657.5,
+      "y": 1060,
+      "w": 17,
+      "h": 34,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1855.5,
+      "y": 1048,
+      "w": 62.0001,
+      "h": 40.0001,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 2023.5,
+      "y": 1019,
+      "w": 564.001,
+      "h": 92,
+      "id": "ui-rect-7",
+      "Category": "Dontcare"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 923.3368679365983,
+      "y": 587.4736742991204,
+      "w": 38.41520100521687,
+      "h": 82.51770095793422,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 772.2788908043688,
+      "y": 151.544781120456,
+      "w": 106.63265306122452,
+      "h": 101.53061224489797,
+      "id": "ui-rect-1",
+      "Category": "Height limit",
+      "Content": "4"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

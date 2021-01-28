@@ -1,0 +1,169 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 2291.81,
+      "y": 1231.43,
+      "w": 173.572,
+      "h": 120,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2271.5,
+      "y": 1252.55,
+      "w": 121,
+      "h": 92.0006,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2126.58,
+      "y": 1287.74,
+      "w": 140.048,
+      "h": 60.132,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2052.49,
+      "y": 1283.8,
+      "w": 107.8,
+      "h": 64.2,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1958.68,
+      "y": 1267.96,
+      "w": 96.3142,
+      "h": 61.4327,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 969.5,
+      "y": 1076,
+      "w": 1030,
+      "h": 863.899,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 475.357,
+      "y": 1124.28,
+      "w": 358.572,
+      "h": 293.571,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 899.221,
+      "y": 1209.14,
+      "w": 22.9071,
+      "h": 73.4071,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 907.815,
+      "y": 1210.43,
+      "w": 30.7163,
+      "h": 76.2707,
+      "id": "ui-rect-9",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 971.029,
+      "y": 1200.8,
+      "w": 76.1658,
+      "h": 102.041,
+      "id": "ui-rect-10",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 999.079,
+      "y": 1213.57,
+      "w": 29.8833,
+      "h": 86.3692,
+      "id": "ui-rect-11",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1241.8,
+      "y": 861.886,
+      "w": 90.3793,
+      "h": 37.3907,
+      "id": "ui-rect-12",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1300.76,
+      "y": 870.922,
+      "w": 22.4491,
+      "h": 20.4081,
+      "id": "ui-rect-13",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-12",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 7,
+    "Traffic lights": 2,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

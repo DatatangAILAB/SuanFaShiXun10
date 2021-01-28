@@ -1,0 +1,145 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1479.3806446719993,
+      "y": 1297.2486983679994,
+      "w": 110.90102983679995,
+      "h": 34.399965237119986,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1562.2883655679993,
+      "y": 1268.6515206399995,
+      "w": 48.20055059007998,
+      "h": 54.599903236479975,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1587.4897225599993,
+      "y": 1299.4548524159993,
+      "w": 69.00014083647997,
+      "h": 31.800016456319984,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1633.487657983999,
+      "y": 1298.2501266559993,
+      "w": 42.20033864703998,
+      "h": 41.200039789439984,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1622.2912379519992,
+      "y": 1306.2540234239993,
+      "w": 55.800035979519976,
+      "h": 34.999918665599985,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1678.2883971839992,
+      "y": 1291.8500210559994,
+      "w": 50.20009417023998,
+      "h": 53.40014697023997,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1710.8912880639991,
+      "y": 1292.8514493439995,
+      "w": 41.00028119935998,
+      "h": 48.799826360319976,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1762.0921328639993,
+      "y": 1306.8488567679992,
+      "w": 52.59998317951998,
+      "h": 40.59993577023998,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1799.8904035839992,
+      "y": 1301.0511140479994,
+      "w": 47.00004137023998,
+      "h": 44.000123637119984,
+      "id": "ui-rect-10",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1832.485764927999,
+      "y": 1297.8510612479993,
+      "w": 23.19917807423999,
+      "h": 33.60010262783998,
+      "id": "ui-rect-11",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1825.8898913919993,
+      "y": 1301.8492448639995,
+      "w": 61.799043196799964,
+      "h": 27.80002575167999,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 10,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

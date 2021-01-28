@@ -1,0 +1,94 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 0.2494610572159999,
+      "y": 924.4839596159997,
+      "w": 395.1357431615998,
+      "h": 606.4235587647997,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 46.89748908991998,
+      "y": 696.7237781055996,
+      "w": 932.9622171519995,
+      "h": 589.9587223935997,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1012.7828282879996,
+      "y": 921.7356789759996,
+      "w": 156.40803951359993,
+      "h": 205.79953681279991,
+      "id": "ui-rect-2",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1352.5230221439992,
+      "y": 863.6754268799996,
+      "w": 74.20011369343996,
+      "h": 264.59994229759985,
+      "id": "ui-rect-3",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1390.3212928639994,
+      "y": 744.6748751679996,
+      "w": 113.40008283519995,
+      "h": 366.7998403327998,
+      "id": "ui-rect-4",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1391.7293160959994,
+      "y": 877.6728343039995,
+      "w": 137.2001931775999,
+      "h": 254.80025119359988,
+      "id": "ui-rect-5",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1991.3589745279992,
+      "y": 683.8625776639997,
+      "w": 601.7213635327997,
+      "h": 672.2798924351997,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2404.918739327999,
+      "y": 703.4619598719997,
+      "w": 188.16009282559992,
+      "h": 527.2406993279997,
+      "id": "ui-rect-7",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 3
+  }
+}

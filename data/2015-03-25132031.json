@@ -1,0 +1,83 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 995.4996799999998,
+      "y": 578.9996799999999,
+      "w": 604.5012399999998,
+      "h": 419.9985999999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 989.6137999999997,
+      "y": 689.5064399999998,
+      "w": 10.932997599999997,
+      "h": 26.603471999999993,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 431.0706399999999,
+      "y": 615.7143999999998,
+      "w": 332.8550399999999,
+      "h": 259.2864399999999,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 275.76415999999995,
+      "y": 594.8972399999999,
+      "w": 223.46939999999995,
+      "h": 127.04112399999998,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 85.25078799999999,
+      "y": 512.8065599999999,
+      "w": 49.71892799999999,
+      "h": 43.47162399999999,
+      "id": "ui-rect-5",
+      "Category": "Driving by the right road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0.3571433599999999,
+      "y": 442.8561199999999,
+      "w": 112.14296799999998,
+      "h": 290.71503999999993,
+      "id": "ui-rect-6",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

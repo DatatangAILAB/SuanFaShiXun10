@@ -1,0 +1,165 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 650.036,
+      "y": 802.643,
+      "w": 67.9408,
+      "h": 38.7861,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 768.286,
+      "y": 781.871,
+      "w": 103.134,
+      "h": 99.1257,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 865.593,
+      "y": 806.286,
+      "w": 47.3761,
+      "h": 38.6297,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 890.007,
+      "y": 804.1,
+      "w": 68.1485,
+      "h": 52.1138,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 917.343,
+      "y": 805.193,
+      "w": 99.8536,
+      "h": 66.6908,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1001.88,
+      "y": 789.157,
+      "w": 22.2303,
+      "h": 52.1138,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1059.84,
+      "y": 787.7,
+      "w": 16.3994,
+      "h": 63.0464,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1158.96,
+      "y": 769.843,
+      "w": 40.0875,
+      "h": 88.1921,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1192.12,
+      "y": 794.621,
+      "w": 36.4431,
+      "h": 62.3179,
+      "id": "ui-rect-8",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1248.61,
+      "y": 764.379,
+      "w": 52.8424,
+      "h": 115.889,
+      "id": "ui-rect-9",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1293.8,
+      "y": 627.714,
+      "w": 37.9009,
+      "h": 36.8076,
+      "id": "ui-rect-10",
+      "Category": "Speed limit",
+      "Content": "30"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1337.16,
+      "y": 625.164,
+      "w": 38.9942,
+      "h": 37.172,
+      "id": "ui-rect-11",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1334.41,
+      "y": 736.036,
+      "w": 261.429,
+      "h": 335.714,
+      "id": "ui-rect-12",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 6,
+    "Vehicles": 5,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

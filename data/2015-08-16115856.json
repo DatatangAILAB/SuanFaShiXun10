@@ -1,0 +1,148 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 2388.925851199999,
+      "y": 1124.2864975999996,
+      "w": 181.42877983999998,
+      "h": 236.42896703999995,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1482.7385103999995,
+      "y": 968.6325487999998,
+      "w": 858.4746687999997,
+      "h": 695.7982751999999,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1059.0983871999997,
+      "y": 842.8047823999998,
+      "w": 113.39980623999996,
+      "h": 145.60009743999996,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 385.7004815999999,
+      "y": 1113.2803135999998,
+      "w": 1079.3974015999997,
+      "h": 333.20194431999994,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1060.3622735999998,
+      "y": 1126.4262687999997,
+      "w": 74.28425087999999,
+      "h": 297.8553827199999,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 970.0078415999998,
+      "y": 1131.2013775999997,
+      "w": 624.3982975999999,
+      "h": 163.80006159999996,
+      "id": "ui-rect-5",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 34.29999451199999,
+      "y": 1024.8005823999997,
+      "w": 242.47948703999992,
+      "h": 498.40150079999984,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 474.4990655999999,
+      "y": 1079.9966911999998,
+      "w": 84.00004143999998,
+      "h": 289.99969487999994,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 551.0698367999998,
+      "y": 1077.8569199999997,
+      "w": 63.57156511999999,
+      "h": 210.00029567999994,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 638.9272287999999,
+      "y": 1097.1417519999998,
+      "w": 38.57120063999999,
+      "h": 188.57031423999993,
+      "id": "ui-rect-9",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 618.5052831999999,
+      "y": 1110.9984031999998,
+      "w": 38.00006996799999,
+      "h": 196.99955295999993,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 668.4998655999998,
+      "y": 1084.9984544,
+      "w": 54.99980303999999,
+      "h": 215.99972239999994,
+      "id": "ui-rect-11",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 8,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 1
+  }
+}

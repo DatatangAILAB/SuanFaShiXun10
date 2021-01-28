@@ -1,0 +1,35 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 356.3769999999999,
+      "y": 531.1231519999999,
+      "w": 21.428609439999995,
+      "h": 22.448993279999993,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "70"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1184.9991439999997,
+      "y": 569.0013279999998,
+      "w": 414.9998159999999,
+      "h": 200.00000719999997,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Partial truncation (15%~35%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

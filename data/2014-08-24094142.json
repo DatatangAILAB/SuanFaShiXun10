@@ -1,0 +1,34 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1345.7857142857142,
+      "y": 905.7142857142858,
+      "w": 27.42857142857143,
+      "h": 22.142857142857146,
+      "id": "ui-rect-0",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1226.5,
+      "y": 1024,
+      "w": 47.42857142857144,
+      "h": 50,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

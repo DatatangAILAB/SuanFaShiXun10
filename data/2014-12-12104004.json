@@ -1,0 +1,82 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 149.50008975999995,
+      "y": 830.0007295999998,
+      "w": 80.00016751999998,
+      "h": 34.00000396799999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 333.49928415999995,
+      "y": 818.9983871999998,
+      "w": 82.00010447999999,
+      "h": 46.000086719999985,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 529.4992527999998,
+      "y": 821.9986767999999,
+      "w": 40.99986015999998,
+      "h": 26.999994111999992,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 882.5000351999998,
+      "y": 801.0004911999998,
+      "w": 36.00001775999999,
+      "h": 93.00014191999998,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 837.4995327999998,
+      "y": 811.0001759999998,
+      "w": 64.28571855999999,
+      "h": 26.857125007999993,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 905.4996943999997,
+      "y": 785.9990431999998,
+      "w": 60.99999807999998,
+      "h": 59.000061119999984,
+      "id": "ui-rect-8",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

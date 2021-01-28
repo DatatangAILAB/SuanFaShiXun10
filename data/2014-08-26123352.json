@@ -1,0 +1,59 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 725,
+      "y": 969.607142857143,
+      "w": 110,
+      "h": 75.71428571428572,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 437.8571428571429,
+      "y": 975.3214285714287,
+      "w": 143.57142857142858,
+      "h": 90,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 464.99928571428575,
+      "y": 946.7500000000001,
+      "w": 131.42857142857144,
+      "h": 64.28564285714286,
+      "id": "ui-rect-4",
+      "Category": "Van",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 443.3978571428571,
+      "y": 933.6928571428573,
+      "w": 29.39807142857143,
+      "h": 29.20007142857143,
+      "id": "ui-rect-5",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

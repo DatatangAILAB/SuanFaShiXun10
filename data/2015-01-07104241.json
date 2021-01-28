@@ -1,0 +1,61 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 641.5,
+      "y": 679.1989795918369,
+      "w": 8.200000000000001,
+      "h": 24.48198979591837,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 948.7193877551022,
+      "y": 644.8979591836736,
+      "w": 8.163316326530612,
+      "h": 21.428622448979596,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 989.0306122448981,
+      "y": 643.3673469387755,
+      "w": 9.183622448979593,
+      "h": 21.428622448979596,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 632.6989795918367,
+      "y": 679.6020408163266,
+      "w": 8.800000000000002,
+      "h": 24.000000000000004,
+      "id": "ui-rect-5",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1512.5,
+      "y": 526.5306122448981,
+      "w": 86.73469387755104,
+      "h": 58.16326530612245,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1268.403790087464,
+      "y": 547.3760932944608,
+      "w": 15.306122448979595,
+      "h": 36.443148688046655,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1259.6574344023327,
+      "y": 554.3002915451897,
+      "w": 15.306122448979595,
+      "h": 31.70553935860059,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 998.2142857142856,
+      "y": 438.57142857142856,
+      "w": 50.71428571428571,
+      "h": 47.85714285714287,
+      "id": "ui-rect-3",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 509.2930029154521,
+      "y": 477.76967930029167,
+      "w": 37.90087463556852,
+      "h": 41.18075801749272,
+      "id": "ui-rect-6",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

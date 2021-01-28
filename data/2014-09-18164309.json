@@ -1,0 +1,157 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 439.2677519999999,
+      "y": 753.5929519999997,
+      "w": 39.82778799999999,
+      "h": 34.88117919999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 553.3166239999998,
+      "y": 723.7656719999998,
+      "w": 111.22996079999997,
+      "h": 103.57090799999997,
+      "id": "ui-rect-3",
+      "Category": "Medium bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 881.4990239999997,
+      "y": 734.6950239999998,
+      "w": 57.00001439999999,
+      "h": 36.30586399999999,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 954.1573999999998,
+      "y": 737.1948079999997,
+      "w": 14.577198159999996,
+      "h": 41.389123999999995,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 939.0571679999997,
+      "y": 736.9341279999999,
+      "w": 15.878787119999997,
+      "h": 43.99208239999999,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 972.1223679999997,
+      "y": 737.4499999999998,
+      "w": 18.742205999999996,
+      "h": 47.11612639999999,
+      "id": "ui-rect-11",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 819.3199839999999,
+      "y": 736.9341279999999,
+      "w": 19.523203279999993,
+      "h": 49.19827359999999,
+      "id": "ui-rect-13",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1031.5189919999998,
+      "y": 726.6797999999998,
+      "w": 24.052586879999996,
+      "h": 48.105063999999985,
+      "id": "ui-rect-14",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1054.8512239999998,
+      "y": 726.3148479999999,
+      "w": 24.416797999999996,
+      "h": 48.105063999999985,
+      "id": "ui-rect-15",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1079.2591039999998,
+      "y": 723.4089519999998,
+      "w": 23.688211119999995,
+      "h": 57.215692799999985,
+      "id": "ui-rect-16",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1110.6010719999997,
+      "y": 724.4955759999998,
+      "w": 17.492698159999996,
+      "h": 47.375983199999986,
+      "id": "ui-rect-17",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1109.8793999999998,
+      "y": 732.5162879999998,
+      "w": 49.56267679999999,
+      "h": 72.52199919999998,
+      "id": "ui-rect-18",
+      "Category": "Cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 9,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

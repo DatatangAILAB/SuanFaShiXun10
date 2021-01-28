@@ -1,0 +1,70 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 173.80013055999996,
+      "y": 558.1998463999998,
+      "w": 56.000155679999985,
+      "h": 75.99990943999998,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 411.80031199999985,
+      "y": 520.1987391999999,
+      "w": 14.999988191999996,
+      "h": 19.999984255999994,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 627.7981135999999,
+      "y": 521.2013967999999,
+      "w": 14.999988191999996,
+      "h": 25.000018735999994,
+      "id": "ui-rect-2",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 756.7990415999998,
+      "y": 517.1984495999999,
+      "w": 19.000015775999994,
+      "h": 30.00001479999999,
+      "id": "ui-rect-3",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 917.8004975999997,
+      "y": 515.2008175999998,
+      "w": 25.000018735999994,
+      "h": 36.999986239999984,
+      "id": "ui-rect-4",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1165.7988271999996,
+      "y": 486.2005791999999,
+      "w": 40.99986015999998,
+      "h": 56.000155679999985,
+      "id": "ui-rect-5",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 5,
+    "Dontcare": 0
+  }
+}

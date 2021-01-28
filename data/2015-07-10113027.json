@@ -1,0 +1,89 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2175.4486879999995,
+      "y": 1112.4505279999996,
+      "w": 111.99992719999997,
+      "h": 111.00001359999997,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 2183.990759999999,
+      "y": 978.6366239999998,
+      "w": 111.00495279999997,
+      "h": 113.00011519999997,
+      "id": "ui-rect-1",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2191.4489519999997,
+      "y": 841.4558319999999,
+      "w": 107.99999839999998,
+      "h": 114.00002879999998,
+      "id": "ui-rect-2",
+      "Category": "Speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2191.4489519999997,
+      "y": 703.9759439999998,
+      "w": 111.00001359999997,
+      "h": 114.00002879999998,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1457.4509039999996,
+      "y": 1238.4495199999997,
+      "w": 44.00003999999999,
+      "h": 45.99986719999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1343.4486799999997,
+      "y": 1238.4495199999997,
+      "w": 53.99999919999999,
+      "h": 45.99986719999999,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1446.4502079999995,
+      "y": 1247.4498399999998,
+      "w": 26.000003679999995,
+      "h": 24.000011839999992,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 1,
+    "Prohibitory signs": 3,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

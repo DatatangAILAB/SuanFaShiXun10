@@ -1,0 +1,61 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 725.3927360774818,
+      "y": 770.4077481840194,
+      "w": 84.54702179176755,
+      "h": 78.35292978208233,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 988.5210653753027,
+      "y": 785.0944309927361,
+      "w": 84.34072639225182,
+      "h": 39.30731234866828,
+      "id": "ui-rect-5",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1091.0702179176756,
+      "y": 767.8566585956416,
+      "w": 156.42905569007266,
+      "h": 89.28561743341405,
+      "id": "ui-rect-6",
+      "Category": "Interurban coach",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 718.1152542372881,
+      "y": 806.6285714285715,
+      "w": 33.16338983050847,
+      "h": 44.898014527845035,
+      "id": "ui-rect-7",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

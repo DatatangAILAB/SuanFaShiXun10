@@ -1,0 +1,242 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1569.8006911999996,
+      "y": 952.2020255999998,
+      "w": 78.00023055999998,
+      "h": 180.00008879999996,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1406.7977615999996,
+      "y": 975.2016847999997,
+      "w": 35.00001086399999,
+      "h": 85.00000991999998,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1327.7990991999995,
+      "y": 969.2011055999998,
+      "w": 21.999998047999995,
+      "h": 66.00022463999997,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1381.8004703999998,
+      "y": 919.1988399999998,
+      "w": 28.000039423999993,
+      "h": 25.000018735999994,
+      "id": "ui-rect-3",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1305.8020975999996,
+      "y": 971.1987375999997,
+      "w": 29.999861135999993,
+      "h": 81.00013599999998,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1303.8006239999995,
+      "y": 944.1999727999997,
+      "w": 24.000011839999992,
+      "h": 23.000004943999993,
+      "id": "ui-rect-5",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1306.8009135999996,
+      "y": 922.1991295999998,
+      "w": 20.999991151999996,
+      "h": 20.999991151999996,
+      "id": "ui-rect-6",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1259.7989375999996,
+      "y": 980.1996063999998,
+      "w": 17.000001983999994,
+      "h": 35.00001086399999,
+      "id": "ui-rect-7",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1249.7992527999997,
+      "y": 850.1998623999997,
+      "w": 13.999981295999996,
+      "h": 37.00010148799999,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1189.8011439999996,
+      "y": 860.1995471999998,
+      "w": 18.000008879999996,
+      "h": 13.999981295999996,
+      "id": "ui-rect-10",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1134.8009567999998,
+      "y": 849.2010463999998,
+      "w": 13.999981295999996,
+      "h": 35.99990251199999,
+      "id": "ui-rect-11",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1176.8011695999996,
+      "y": 971.1987375999997,
+      "w": 40.99986015999998,
+      "h": 45.00011823999999,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1085.8013487999997,
+      "y": 974.1990271999998,
+      "w": 118.00012223999997,
+      "h": 78.00023055999998,
+      "id": "ui-rect-13",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1069.8010847999997,
+      "y": 971.1987375999997,
+      "w": 51.99989759999998,
+      "h": 51.99989759999998,
+      "id": "ui-rect-14",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 942.8016303999998,
+      "y": 976.2005007999998,
+      "w": 40.000275839999986,
+      "h": 41.99982863999999,
+      "id": "ui-rect-15",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 990.8024223999997,
+      "y": 977.1993167999997,
+      "w": 41.99982863999999,
+      "h": 43.00018127999999,
+      "id": "ui-rect-16",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 737.8023295999999,
+      "y": 774.2014895999998,
+      "w": 38.999923199999984,
+      "h": 38.999923199999984,
+      "id": "ui-rect-17",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 755.8002255999999,
+      "y": 871.2018895999997,
+      "w": 23.000004943999993,
+      "h": 24.000011839999992,
+      "id": "ui-rect-18",
+      "Category": "Driving by the right road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 608.8014015999998,
+      "y": 934.2002879999998,
+      "w": 100.99988975999997,
+      "h": 97.99998431999998,
+      "id": "ui-rect-20",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 353.8002193599999,
+      "y": 977.1993167999997,
+      "w": 32.99988182399999,
+      "h": 64.99987199999998,
+      "id": "ui-rect-21",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 8,
+    "Vehicles": 4,
+    "Traffic lights": 3,
+    "Indication signs": 1,
+    "Prohibitory signs": 3,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

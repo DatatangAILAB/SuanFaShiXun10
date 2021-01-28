@@ -1,0 +1,56 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1248.9276799999996,
+      "y": 962.1424399999997,
+      "w": 32.14282399999999,
+      "h": 39.28565199999999,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1327.5001599999998,
+      "y": 971.4289199999998,
+      "w": 31.428599999999992,
+      "h": 34.28569199999999,
+      "id": "ui-rect-1",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1301.7849599999997,
+      "y": 960.0001599999997,
+      "w": 23.571351999999994,
+      "h": 37.142783999999985,
+      "id": "ui-rect-2",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2085.3615999999997,
+      "y": 816.4281999999998,
+      "w": 121.42866399999997,
+      "h": 122.14288799999997,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "80"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

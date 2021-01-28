@@ -1,0 +1,22 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1344.5,
+      "y": 1120,
+      "w": 20,
+      "h": 21,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

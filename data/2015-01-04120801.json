@@ -1,0 +1,246 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 2160.06195335277,
+      "y": 568.7755102040818,
+      "w": 57.65415451895045,
+      "h": 132.2448979591837,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1956.3739067055399,
+      "y": 573.9650145772596,
+      "w": 48.469387755102055,
+      "h": 121.93841107871722,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1947.7077259475225,
+      "y": 575.506559766764,
+      "w": 39.28571428571429,
+      "h": 114.79482507288633,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1587.281341107872,
+      "y": 617.707725947522,
+      "w": 33.89212827988339,
+      "h": 74.34438775510206,
+      "id": "ui-rect-4",
+      "Category": "Cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1584.730320699709,
+      "y": 626.8185131195337,
+      "w": 32.435167638483975,
+      "h": 55.029518950437335,
+      "id": "ui-rect-5",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2440.801749271138,
+      "y": 223.4398688046648,
+      "w": 137.2000728862974,
+      "h": 134.45736151603504,
+      "id": "ui-rect-6",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1471.3702623906709,
+      "y": 507.65306122448993,
+      "w": 39.358600583090386,
+      "h": 38.483965014577265,
+      "id": "ui-rect-7",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1226.8622448979595,
+      "y": 408.5313411078718,
+      "w": 61.588192419825084,
+      "h": 59.766763848396515,
+      "id": "ui-rect-8",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1053.3782798833822,
+      "y": 412.17565597667647,
+      "w": 62.681851311953366,
+      "h": 61.22339650145775,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 945.8236151603502,
+      "y": 415.19314868804673,
+      "w": 64.0357142857143,
+      "h": 61.692419825072896,
+      "id": "ui-rect-10",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 837.802478134111,
+      "y": 420.411807580175,
+      "w": 63.515306122449,
+      "h": 60.1308309037901,
+      "id": "ui-rect-11",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 852.3760932944609,
+      "y": 454.23833819242,
+      "w": 19.262718658892133,
+      "h": 21.34518950437318,
+      "id": "ui-rect-13",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 729.7667638483966,
+      "y": 423.00291545189515,
+      "w": 63.255830903790105,
+      "h": 62.21355685131197,
+      "id": "ui-rect-14",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 392.1537900874636,
+      "y": 537.802478134111,
+      "w": 37.79992711370263,
+      "h": 40.198979591836746,
+      "id": "ui-rect-15",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 622.9956268221575,
+      "y": 231.77806122448987,
+      "w": 43.36734693877552,
+      "h": 45.5543002915452,
+      "id": "ui-rect-16",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1153.8228862973765,
+      "y": 491.45772594752196,
+      "w": 26.55142128279884,
+      "h": 27.59267492711371,
+      "id": "ui-rect-17",
+      "Category": "No driving straight",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1249.821428571429,
+      "y": 624.220116618076,
+      "w": 73.92711370262393,
+      "h": 40.19169096209914,
+      "id": "ui-rect-20",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 955.2988338192423,
+      "y": 576.3921282798835,
+      "w": 9.800000000000002,
+      "h": 23.896209912536452,
+      "id": "ui-rect-21",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 946.8986880466474,
+      "y": 575.8017492711372,
+      "w": 8.600000000000003,
+      "h": 24.99978134110788,
+      "id": "ui-rect-22",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1364.610058309038,
+      "y": 606.7820699708457,
+      "w": 94.75182215743443,
+      "h": 64.13957725947523,
+      "id": "ui-rect-27",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1398.5058309037904,
+      "y": 597.3068513119536,
+      "w": 114.06705539358603,
+      "h": 75.43731778425658,
+      "id": "ui-rect-28",
+      "Category": "City bus",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1478.3126822157437,
+      "y": 595.4774052478135,
+      "w": 121.71938775510206,
+      "h": 80.10204081632655,
+      "id": "ui-rect-29",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 5,
+    "Vehicles": 4,
+    "Traffic lights": 2,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 9,
+    "Dontcare": 0
+  }
+}

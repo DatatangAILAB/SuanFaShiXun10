@@ -1,0 +1,91 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 189.00013439999995,
+      "y": 607.4008639999998,
+      "w": 69.00007519999998,
+      "h": 67.99988719999999,
+      "id": "ui-rect-0",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 183.00010399999996,
+      "y": 674.4011119999998,
+      "w": 66.99997359999998,
+      "h": 64.99987199999998,
+      "id": "ui-rect-1",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 509.9998399999999,
+      "y": 752.3993119999998,
+      "w": 38.00000959999999,
+      "h": 41.00002479999999,
+      "id": "ui-rect-2",
+      "Category": "Driving by the right road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 709.0002079999998,
+      "y": 680.3994959999999,
+      "w": 28.000050399999996,
+      "h": 29.999877599999994,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "50"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 736.0011679999998,
+      "y": 679.4006799999999,
+      "w": 26.999999599999995,
+      "h": 31.99997919999999,
+      "id": "ui-rect-4",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 764.9997599999999,
+      "y": 679.4006799999999,
+      "w": 43.00012639999999,
+      "h": 31.99997919999999,
+      "id": "ui-rect-5",
+      "Category": "Vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 827.9992559999998,
+      "y": 678.3991199999998,
+      "w": 43.00012639999999,
+      "h": 31.000065599999992,
+      "id": "ui-rect-6",
+      "Category": "Non-motor vehicle Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1267.0008399999997,
+      "y": 673.3995519999999,
+      "w": 37.00009599999999,
+      "h": 69.00007519999998,
+      "id": "ui-rect-8",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 4,
+    "Prohibitory signs": 2,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

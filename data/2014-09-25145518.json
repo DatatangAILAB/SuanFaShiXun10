@@ -1,0 +1,123 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0.5000002,
+      "y": 633.9998,
+      "w": 255.9998,
+      "h": 206.0002,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 112.49994,
+      "y": 571.9392,
+      "w": 17.85714,
+      "h": 37.30608,
+      "id": "ui-rect-1",
+      "Category": "Speed limit",
+      "Content": "40"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 273.9282,
+      "y": 650.7144,
+      "w": 35.71428,
+      "h": 92.14282,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 601.0717999999999,
+      "y": 600.7148,
+      "w": 30.71432,
+      "h": 29.285759999999996,
+      "id": "ui-rect-3",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 841.0709999999999,
+      "y": 582.1424,
+      "w": 27.142919999999997,
+      "h": 25.71422,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "30"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 841.0709999999999,
+      "y": 607.8576,
+      "w": 28.57148,
+      "h": 24.99994,
+      "id": "ui-rect-5",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1173.9279999999999,
+      "y": 300.71439999999996,
+      "w": 147.8568,
+      "h": 152.1422,
+      "id": "ui-rect-6",
+      "Category": "Pedestrian crossing",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1307.5005999999998,
+      "y": 630,
+      "w": 32.14288,
+      "h": 77.85708,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1334.6424,
+      "y": 630.7139999999999,
+      "w": 28.57148,
+      "h": 74.28568,
+      "id": "ui-rect-8",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1410.36,
+      "y": 574.9996,
+      "w": 54.999979999999994,
+      "h": 195.71439999999998,
+      "id": "ui-rect-9",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 3,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 980.976,
+      "y": 519.058,
+      "w": 24.7292,
+      "h": 63.7756,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 991.302,
+      "y": 543.398,
+      "w": 10.4,
+      "h": 15.8,
+      "id": "ui-rect-1",
+      "Category": "Numbers",
+      "Color": "Green",
+      "Association_id": "ui-rect-0",
+      "Number": "12"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 987.099,
+      "y": 563.601,
+      "w": 16.2,
+      "h": 14.6,
+      "id": "ui-rect-2",
+      "Category": "Turning left",
+      "Color": "Green",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 517.298,
+      "y": 736.197,
+      "w": 35,
+      "h": 26.6,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 655.296,
+      "y": 562.798,
+      "w": 78.4001,
+      "h": 28,
+      "id": "ui-rect-5",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 322.1,
+      "y": 737.798,
+      "w": 17.2,
+      "h": 43.4001,
+      "id": "ui-rect-6",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 276.1,
+      "y": 743.799,
+      "w": 49.2001,
+      "h": 32.6,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 231.9,
+      "y": 740.999,
+      "w": 46.6001,
+      "h": 35,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

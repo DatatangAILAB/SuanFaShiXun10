@@ -1,0 +1,91 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 1117.0000799999998,
+      "w": 314.50081599999993,
+      "h": 185.00020559999996,
+      "id": "ui-rect-0",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 440.35711999999984,
+      "y": 1184.2911919999997,
+      "w": 109.99982559999998,
+      "h": 71.42851519999998,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 480.3591519999999,
+      "y": 1148.5697999999998,
+      "w": 121.42913439999997,
+      "h": 97.14281359999997,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 781.7930399999999,
+      "y": 1155.7206639999997,
+      "w": 66.42839839999999,
+      "h": 52.85712319999998,
+      "id": "ui-rect-3",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 898.2127279999997,
+      "y": 1157.8609839999997,
+      "w": 47.14219439999999,
+      "h": 61.42883039999999,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2243.2199999999993,
+      "y": 366.5188239999999,
+      "w": 347.70321599999994,
+      "h": 1245.7759999999996,
+      "id": "ui-rect-5",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1165.0502639999997,
+      "y": 1136.2190559999997,
+      "w": 29.591844799999993,
+      "h": 35.71425759999999,
+      "id": "ui-rect-7",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

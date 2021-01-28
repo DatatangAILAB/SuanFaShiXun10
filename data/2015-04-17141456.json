@@ -1,0 +1,58 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 962.2776799999998,
+      "y": 609.6932799999998,
+      "w": 16.763703599999996,
+      "h": 36.80762399999999,
+      "id": "ui-rect-0",
+      "Category": "Cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1145.1495999999997,
+      "y": 598.4683599999998,
+      "w": 58.67357999999999,
+      "h": 98.46941999999997,
+      "id": "ui-rect-1",
+      "Category": "Cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1132.9093999999998,
+      "y": 576.5300799999999,
+      "w": 210.30799999999994,
+      "h": 59.285687999999986,
+      "id": "ui-rect-2",
+      "Category": "City bus",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1013.2494399999998,
+      "y": 416.2314799999999,
+      "w": 28.373547999999992,
+      "h": 27.332395999999992,
+      "id": "ui-rect-3",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 2,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

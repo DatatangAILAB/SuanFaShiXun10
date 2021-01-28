@@ -1,0 +1,91 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 270.6647342995169,
+      "y": 500.5101449275363,
+      "w": 35.7143961352657,
+      "h": 128.06125603864734,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 338.0096618357488,
+      "y": 551.5323671497586,
+      "w": 195.91884057971018,
+      "h": 77.04077294685992,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 737.4280193236716,
+      "y": 567.0550724637682,
+      "w": 54.30028985507247,
+      "h": 57.21565217391305,
+      "id": "ui-rect-2",
+      "Category": "Cyclists",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 764.0289855072464,
+      "y": 567.4202898550725,
+      "w": 16.763884057971016,
+      "h": 38.62975845410628,
+      "id": "ui-rect-3",
+      "Category": "Sitting people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 880.6492753623189,
+      "y": 590.3787439613527,
+      "w": 37.536425120772954,
+      "h": 26.23903381642512,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 909.4357487922706,
+      "y": 591.8357487922706,
+      "w": 19.679227053140096,
+      "h": 41.54531400966184,
+      "id": "ui-rect-6",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1136.842512077295,
+      "y": 606.0502415458938,
+      "w": 81.6328502415459,
+      "h": 59.03787439613527,
+      "id": "ui-rect-7",
+      "Category": "Dontcare"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 1
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1452.9100230399995,
+      "y": 987.3534339199996,
+      "w": 43.00284735039998,
+      "h": 41.807748639999986,
+      "id": "ui-rect-0",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1603.9417587199994,
+      "y": 944.3866745599996,
+      "w": 177.57012313599992,
+      "h": 244.9998071359999,
+      "id": "ui-rect-1",
+      "Category": "Van",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2136.5004617599993,
+      "y": 119.99982870399997,
+      "w": 200.99988787199993,
+      "h": 206.99985241599992,
+      "id": "ui-rect-2",
+      "Category": "Other"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

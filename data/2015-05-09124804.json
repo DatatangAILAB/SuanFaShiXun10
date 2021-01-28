@@ -1,0 +1,22 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 495.1686407359997,
+      "y": 1176.7158860799993,
+      "w": 1777.715920063999,
+      "h": 764.4737900799996,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

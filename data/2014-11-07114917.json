@@ -1,0 +1,139 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 765.358,
+      "y": 704.999,
+      "w": 12.8571,
+      "h": 39.2857,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 722.499,
+      "y": 702.857,
+      "w": 12.1429,
+      "h": 32.1429,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 743.214,
+      "y": 703.571,
+      "w": 13.5714,
+      "h": 38.5714,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 783.215,
+      "y": 714.286,
+      "w": 12.1429,
+      "h": 32.8572,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 793.213,
+      "y": 715.714,
+      "w": 14.2857,
+      "h": 31.4286,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 801.786,
+      "y": 721.428,
+      "w": 10,
+      "h": 26.4286,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 943.929,
+      "y": 835.001,
+      "w": 15,
+      "h": 28.5713,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 892.5,
+      "y": 824.286,
+      "w": 15,
+      "h": 26.4286,
+      "id": "ui-rect-8",
+      "Category": "Sitting people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 901.071,
+      "y": 823.571,
+      "w": 16.4286,
+      "h": 27.1429,
+      "id": "ui-rect-9",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1154.64,
+      "y": 854.286,
+      "w": 22.143,
+      "h": 36.4286,
+      "id": "ui-rect-11",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1200.36,
+      "y": 802.857,
+      "w": 28.5713,
+      "h": 23.5714,
+      "id": "ui-rect-12",
+      "Category": "Other"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 9,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

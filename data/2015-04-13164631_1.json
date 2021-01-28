@@ -1,0 +1,97 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 991.0721549636804,
+      "y": 629.2861985472156,
+      "w": 129.37278450363198,
+      "h": 104.95573849878934,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 843.8430992736078,
+      "y": 643.2193704600485,
+      "w": 34.62101694915255,
+      "h": 49.562808716707025,
+      "id": "ui-rect-1",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 789.1777239709444,
+      "y": 664.356416464891,
+      "w": 30.97665859564165,
+      "h": 25.510121065375305,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 461.7859564164649,
+      "y": 669.2861985472156,
+      "w": 55.00009685230024,
+      "h": 35.714285714285715,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 385.969975786925,
+      "y": 655.6125907990314,
+      "w": 84.69365617433415,
+      "h": 50.51021791767555,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 109.64280871670702,
+      "y": 656.4280871670702,
+      "w": 147.14285714285717,
+      "h": 90.71438256658595,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 561.7859564164648,
+      "y": 657.1428571428571,
+      "w": 37.8572397094431,
+      "h": 35.714285714285715,
+      "id": "ui-rect-8",
+      "Category": "Van",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 7,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

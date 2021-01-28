@@ -1,0 +1,58 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 766.4798735999998,
+      "y": 815.3066095999998,
+      "w": 128.57143711999998,
+      "h": 105.09196207999997,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 883.6217823999998,
+      "y": 813.1975711999997,
+      "w": 76.20005679999998,
+      "h": 86.20012575999998,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1059.1444863999998,
+      "y": 804.0929791999998,
+      "w": 98.79980543999997,
+      "h": 98.70222879999997,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1503.6982799999996,
+      "y": 688.1995903999998,
+      "w": 43.00056543999999,
+      "h": 39.59998111999999,
+      "id": "ui-rect-4",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

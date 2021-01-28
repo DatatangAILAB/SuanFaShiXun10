@@ -1,0 +1,154 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 1902.4986175999995,
+      "y": 1661.9990911999996,
+      "w": 197.99913727999993,
+      "h": 258.00070351999995,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1476.4997519999997,
+      "y": 1657.0011695999997,
+      "w": 197.99913727999993,
+      "h": 136.99990751999997,
+      "id": "ui-rect-1",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1431.4992495999995,
+      "y": 1667.0008543999998,
+      "w": 126.00025423999998,
+      "h": 109.99999023999997,
+      "id": "ui-rect-2",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1294.5001103999996,
+      "y": 1654.0008799999996,
+      "w": 77.99984639999997,
+      "h": 49.99996063999998,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1095.5013887999996,
+      "y": 1641.9997215999995,
+      "w": 53.000250239999986,
+      "h": 50.99992911999999,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 951.4990127999997,
+      "y": 1599.0006927999996,
+      "w": 146.99997648,
+      "h": 134.99997055999995,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 779.4990559999998,
+      "y": 1615.0009567999996,
+      "w": 142.00013407999995,
+      "h": 100.99988975999997,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 618.5014415999999,
+      "y": 1613.9982991999996,
+      "w": 157.99962975999995,
+      "h": 126.00025423999998,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 484.4987503999999,
+      "y": 1601.0021663999996,
+      "w": 196.99955295999993,
+      "h": 157.00004543999995,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 291.49791887999993,
+      "y": 1583.9992447999996,
+      "w": 287.9993737599999,
+      "h": 193.00006319999994,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 149.50008975999995,
+      "y": 1618.0012463999994,
+      "w": 143.00010255999996,
+      "h": 171.99995679999998,
+      "id": "ui-rect-10",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 7.499994095999998,
+      "y": 1622.0003519999996,
+      "w": 139.00022863999996,
+      "h": 190.00015775999995,
+      "id": "ui-rect-11",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 1615.9997727999996,
+      "w": 58.000092639999984,
+      "h": 255.99961407999993,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 8,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 3
+  }
+}

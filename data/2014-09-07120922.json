@@ -1,0 +1,23 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1363.5010856319993,
+      "y": 412.0003978943998,
+      "w": 78.99989171199996,
+      "h": 84.99942599679996,
+      "id": "ui-rect-0",
+      "Category": "Height limit",
+      "Content": "5"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

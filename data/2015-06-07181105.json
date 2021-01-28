@@ -1,0 +1,90 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 923.185,
+      "y": 546.359,
+      "w": 25.1998,
+      "h": 68.5999,
+      "id": "ui-rect-0",
+      "Category": "Cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 904.186,
+      "y": 556.564,
+      "w": 9.2,
+      "h": 27.2,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 894.392,
+      "y": 556.755,
+      "w": 10,
+      "h": 26.9999,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 93,
+      "y": 541.505,
+      "w": 200.126,
+      "h": 184,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 841,
+      "y": 436.375,
+      "w": 18,
+      "h": 24,
+      "id": "ui-rect-6",
+      "Category": "Joint lane for driving straight and turning left",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 854,
+      "y": 436.375,
+      "w": 19,
+      "h": 24,
+      "id": "ui-rect-7",
+      "Category": "Through Lane",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 869,
+      "y": 435.375,
+      "w": 19,
+      "h": 25,
+      "id": "ui-rect-8",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 4,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

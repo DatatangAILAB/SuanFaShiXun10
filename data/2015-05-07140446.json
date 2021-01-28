@@ -1,0 +1,102 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 687.5558479999999,
+      "y": 242.55587999999995,
+      "w": 31.000065599999992,
+      "h": 85.99997839999997,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 883.5570239999997,
+      "y": 232.55592079999994,
+      "w": 31.000065599999992,
+      "h": 85.99997839999997,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1082.5601359999998,
+      "y": 225.55597679999997,
+      "w": 31.000065599999992,
+      "h": 83.99987679999998,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 690.5550399999998,
+      "y": 248.55591039999993,
+      "w": 21.999992559999995,
+      "h": 19.000004799999996,
+      "id": "ui-rect-3",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1215.5590719999998,
+      "y": 377.55519199999986,
+      "w": 38.99992319999999,
+      "h": 41.00002479999999,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1217.5594479999997,
+      "y": 429.55673599999994,
+      "w": 40.000111199999985,
+      "h": 41.00002479999999,
+      "id": "ui-rect-5",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1219.5598239999997,
+      "y": 481.5555359999999,
+      "w": 41.00002479999999,
+      "h": 38.00000959999999,
+      "id": "ui-rect-6",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 761.5560399999999,
+      "y": 577.5571199999998,
+      "w": 142.00007919999996,
+      "h": 111.99992719999997,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 1,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

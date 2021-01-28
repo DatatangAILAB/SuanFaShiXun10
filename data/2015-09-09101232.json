@@ -1,0 +1,37 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 638.9599999999998,
+      "y": 827.4649599999998,
+      "w": 67.14293599999998,
+      "h": 89.28564399999998,
+      "id": "ui-rect-0",
+      "Category": "Sitting people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 851.8355999999998,
+      "w": 33.46268799999999,
+      "h": 26.81162399999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Partial truncation (15%~35%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

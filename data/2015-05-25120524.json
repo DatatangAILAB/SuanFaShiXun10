@@ -1,0 +1,31 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1208.2067199999997,
+      "y": 645.7161199999998,
+      "w": 84.99990799999998,
+      "h": 107.85723199999998,
+      "id": "ui-rect-0",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 697.4993199999999,
+      "y": 751.4287199999999,
+      "w": 29.285535999999993,
+      "h": 39.99987599999999,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

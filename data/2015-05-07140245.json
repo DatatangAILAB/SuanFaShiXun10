@@ -1,0 +1,114 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 783.9691999999999,
+      "y": 432.5384,
+      "w": 12.142914,
+      "h": 39.28582,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 869.6841999999999,
+      "y": 431.1118,
+      "w": 14.28574,
+      "h": 39.99996,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 964.6839999999999,
+      "y": 429.68379999999996,
+      "w": 11.428619999999999,
+      "h": 38.5714,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 783.3616,
+      "y": 434.24219999999997,
+      "w": 10.568515999999999,
+      "h": 10.204082,
+      "id": "ui-rect-3",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-0",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 871.1933999999999,
+      "y": 457.5648,
+      "w": 10.932908,
+      "h": 11.66179,
+      "id": "ui-rect-4",
+      "Category": "Going straight",
+      "Color": "Green",
+      "Association_id": "ui-rect-1",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 964.8519999999999,
+      "y": 457.5648,
+      "w": 11.66179,
+      "h": 11.297398000000001,
+      "id": "ui-rect-5",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-2",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1023.9698000000001,
+      "y": 501.1118,
+      "w": 18.58598,
+      "h": 19.13464,
+      "id": "ui-rect-7",
+      "Category": "Speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1025.7086,
+      "y": 526.0766,
+      "w": 17.49272,
+      "h": 18.21988,
+      "id": "ui-rect-8",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1025.7086,
+      "y": 549.766,
+      "w": 18.22156,
+      "h": 18.21988,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 6,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 419.89840479999987,
+      "y": 621.6131375999998,
+      "w": 20.408231087999994,
+      "h": 35.204115071999986,
+      "id": "ui-rect-0",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 448.9793167999999,
+      "y": 616.0005599999998,
+      "w": 21.428521631999995,
+      "h": 40.816231679999994,
+      "id": "ui-rect-1",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1004.0828335999996,
+      "y": 589.4704703999998,
+      "w": 31.12241507199999,
+      "h": 72.95928303999999,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

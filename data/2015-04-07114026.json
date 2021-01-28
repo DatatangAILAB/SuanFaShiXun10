@@ -1,0 +1,85 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 0,
+      "y": 592.1983199999999,
+      "w": 115.35697599999997,
+      "h": 212.85795999999993,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 572.5003199999999,
+      "y": 522.0009199999998,
+      "w": 116.00005199999998,
+      "h": 107.99991999999997,
+      "id": "ui-rect-1",
+      "Category": "Van",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 676.9330399999999,
+      "y": 567.0554399999999,
+      "w": 21.501395999999996,
+      "h": 41.90950399999999,
+      "id": "ui-rect-2",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 693.6949599999998,
+      "y": 560.1327199999998,
+      "w": 48.10486799999999,
+      "h": 48.469231999999984,
+      "id": "ui-rect-3",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 940.5667599999997,
+      "y": 542.1438399999998,
+      "w": 140.71408399999999,
+      "h": 105.61205199999996,
+      "id": "ui-rect-4",
+      "Category": "Medium bus",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1045.6599999999999,
+      "y": 567.3474799999999,
+      "w": 67.85716,
+      "h": 31.63263599999999,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1208.4203599999998,
+      "y": 491.32691999999986,
+      "w": 166.83696399999997,
+      "h": 107.14300799999998,
+      "id": "ui-rect-6",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 3,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 4,
+    "Dontcare": 0
+  }
+}

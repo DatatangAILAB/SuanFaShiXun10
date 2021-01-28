@@ -1,0 +1,25 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 840.1990799999998,
+      "y": 528.7907519999999,
+      "w": 17.128294959999995,
+      "h": 48.833870399999995,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

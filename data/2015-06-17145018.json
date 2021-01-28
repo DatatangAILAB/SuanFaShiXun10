@@ -1,0 +1,172 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 70.15302,
+      "y": 626.0912000000001,
+      "w": 149.4178,
+      "h": 83.45512,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 711.704,
+      "y": 611.1994,
+      "w": 69.79994,
+      "h": 71.19994,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 765.4948,
+      "y": 627.7964,
+      "w": 46.946059999999996,
+      "h": 26.968059999999998,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 822.3011999999999,
+      "y": 615.8012,
+      "w": 52.208659999999995,
+      "h": 57.4,
+      "id": "ui-rect-4",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 856.3016,
+      "y": 630.2912,
+      "w": 32.207,
+      "h": 27.60002,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 909.8922,
+      "y": 630.1931999999999,
+      "w": 45.00006,
+      "h": 34.598060000000004,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1030.3621999999998,
+      "y": 612.8513999999999,
+      "w": 307.6682,
+      "h": 172.4492,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1258.2094,
+      "y": 431.3274,
+      "w": 19.26274,
+      "h": 21.97006,
+      "id": "ui-rect-13",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1041.1128,
+      "y": 131.03874000000002,
+      "w": 28.57134,
+      "h": 38.57112,
+      "id": "ui-rect-14",
+      "Category": "Driving straight on the one-way road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1132.929,
+      "y": 175.23239999999998,
+      "w": 35.71414,
+      "h": 24.99994,
+      "id": "ui-rect-15",
+      "Category": "Driving by the right on the one-way road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 942.627,
+      "y": 176.7626,
+      "w": 35.20398,
+      "h": 24.99994,
+      "id": "ui-rect-16",
+      "Category": "Driving by the left on the one-way road",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 876.0766,
+      "y": 578.0054,
+      "w": 6.247402,
+      "h": 13.536026,
+      "id": "ui-rect-18",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 863.5871999999999,
+      "y": 577.479,
+      "w": 6.247402,
+      "h": 14.31682,
+      "id": "ui-rect-19",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 851.3526,
+      "y": 577.479,
+      "w": 7.028321999999999,
+      "h": 13.015408,
+      "id": "ui-rect-20",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 7,
+    "Traffic lights": 3,
+    "Indication signs": 3,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

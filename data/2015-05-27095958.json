@@ -1,0 +1,121 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 9.333314009661835,
+      "y": 591.6676328502416,
+      "w": 106,
+      "h": 193,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 342.3323671497585,
+      "y": 562.6666666666667,
+      "w": 51,
+      "h": 156.00000000000003,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 386.33236714975845,
+      "y": 574.6666666666666,
+      "w": 63.99961352657005,
+      "h": 140.00000000000003,
+      "id": "ui-rect-2",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 406.33236714975845,
+      "y": 575.6676328502416,
+      "w": 51,
+      "h": 141,
+      "id": "ui-rect-4",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 418.33236714975845,
+      "y": 583.6676328502416,
+      "w": 42.99961352657005,
+      "h": 125.00000000000001,
+      "id": "ui-rect-5",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 465.33333333333337,
+      "y": 586.6666666666667,
+      "w": 87.00000000000001,
+      "h": 169,
+      "id": "ui-rect-6",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 538.3323671497585,
+      "y": 576.6666666666667,
+      "w": 52.00000000000001,
+      "h": 148.00000000000003,
+      "id": "ui-rect-7",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 707.3333333333334,
+      "y": 634.6666666666667,
+      "w": 40,
+      "h": 36,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 806.3323671497585,
+      "y": 629.6676328502416,
+      "w": 47.00000000000001,
+      "h": 41.00000000000001,
+      "id": "ui-rect-9",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 7,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

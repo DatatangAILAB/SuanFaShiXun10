@@ -1,0 +1,59 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1221.5,
+      "y": 520,
+      "w": 237,
+      "h": 104,
+      "id": "ui-rect-0",
+      "Category": "Interurban coach",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1078.5,
+      "y": 522,
+      "w": 43,
+      "h": 40,
+      "id": "ui-rect-1",
+      "Category": "Weight limit",
+      "Content": "5"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 819.5,
+      "y": 518,
+      "w": 185,
+      "h": 137,
+      "id": "ui-rect-2",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 347.5,
+      "y": 585,
+      "w": 79,
+      "h": 84,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

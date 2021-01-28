@@ -1,0 +1,161 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 1192.1439053439994,
+      "w": 253.8726123583999,
+      "h": 517.1443445055997,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1637.0114808319993,
+      "y": 1154.3606936959995,
+      "w": 83.00033418879997,
+      "h": 66.00022310335997,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1179.0048650239994,
+      "y": 692.3641767615998,
+      "w": 68.00014316031996,
+      "h": 70.00006321727997,
+      "id": "ui-rect-4",
+      "Category": "Speed limit",
+      "Content": "120"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1419.0012954879994,
+      "y": 691.3650073343997,
+      "w": 68.00014316031996,
+      "h": 68.00014316031996,
+      "id": "ui-rect-5",
+      "Category": "Speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1672.0012346239992,
+      "y": 689.3636566655996,
+      "w": 69.00014083647997,
+      "h": 68.00014316031996,
+      "id": "ui-rect-6",
+      "Category": "Speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1938.998581183999,
+      "y": 687.3660707647997,
+      "w": 68.00014316031996,
+      "h": 70.00006321727997,
+      "id": "ui-rect-7",
+      "Category": "Driving prohibited",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1959.004558335999,
+      "y": 824.3637194239996,
+      "w": 38.00006228479998,
+      "h": 28.999932608639988,
+      "id": "ui-rect-8",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1737.9976176639993,
+      "y": 825.3651477119996,
+      "w": 39.99990704639998,
+      "h": 29.999930284799987,
+      "id": "ui-rect-9",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1480.9994949119994,
+      "y": 826.3590464639996,
+      "w": 41.00028119935998,
+      "h": 30.999927960959987,
+      "id": "ui-rect-10",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1237.9987795839995,
+      "y": 828.3619030399996,
+      "w": 38.00006228479998,
+      "h": 29.999930284799987,
+      "id": "ui-rect-11",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1177.0020084479995,
+      "y": 615.3626239039997,
+      "w": 71.00006089343997,
+      "h": 68.00014316031996,
+      "id": "ui-rect-12",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1268.9978792959994,
+      "y": 614.3642074303998,
+      "w": 67.00022077951996,
+      "h": 66.00022310335997,
+      "id": "ui-rect-13",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1266.0011239679995,
+      "y": 689.3636566655996,
+      "w": 71.00006089343997,
+      "h": 73.99997862655997,
+      "id": "ui-rect-14",
+      "Category": "Minimum speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1509.9957380479993,
+      "y": 689.3636566655996,
+      "w": 72.99998095039996,
+      "h": 70.00006321727997,
+      "id": "ui-rect-15",
+      "Category": "Minimum speed limit",
+      "Content": "80"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1764.004635007999,
+      "y": 687.3660707647997,
+      "w": 71.00006089343997,
+      "h": 69.00014083647997,
+      "id": "ui-rect-16",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 3,
+    "Prohibitory signs": 4,
+    "MISC": 6,
+    "Dontcare": 0
+  }
+}

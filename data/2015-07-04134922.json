@@ -1,0 +1,107 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1268.4990639999996,
+      "y": 1181.0011359999996,
+      "w": 153.99986559999996,
+      "h": 53.99999919999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1723.5009119999995,
+      "y": 1131.9987839999997,
+      "w": 72.00009039999999,
+      "h": 31.99997919999999,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1909.5002079999995,
+      "y": 1100.9998159999998,
+      "w": 145.00009439999997,
+      "h": 66.99997359999998,
+      "id": "ui-rect-2",
+      "Category": "Van",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1935.4996079999994,
+      "y": 1126.0004,
+      "w": 118.99987119999997,
+      "h": 102.99988159999998,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2151.4908239999995,
+      "y": 913.0001439999998,
+      "w": 60.00002959999998,
+      "h": 53.99999919999999,
+      "id": "ui-rect-4",
+      "Category": "Other"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2313.4993279999994,
+      "y": 1107.0009439999997,
+      "w": 31.000065599999992,
+      "h": 31.99997919999999,
+      "id": "ui-rect-5",
+      "Category": "No U-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2343.4994799999995,
+      "y": 1091.0006799999999,
+      "w": 20.999996639999996,
+      "h": 35.99990799999999,
+      "id": "ui-rect-6",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2436.4991279999995,
+      "y": 1089.0003039999997,
+      "w": 13.999997759999996,
+      "h": 21.999992559999995,
+      "id": "ui-rect-7",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2535.4999039999993,
+      "y": 1089.0003039999997,
+      "w": 19.000004799999996,
+      "h": 35.99990799999999,
+      "id": "ui-rect-8",
+      "Category": "Indication signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 4,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 4,
+    "Dontcare": 0
+  }
+}

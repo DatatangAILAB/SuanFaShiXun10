@@ -1,0 +1,94 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Pedestrians",
+      "x": 1115.4991119999997,
+      "y": 574.0008959999999,
+      "w": 25.99994879999999,
+      "h": 69.00007519999998,
+      "id": "ui-rect-0",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 894.5000959999998,
+      "y": 484.00043999999986,
+      "w": 20.999996639999996,
+      "h": 20.999996639999996,
+      "id": "ui-rect-2",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 846.4993039999997,
+      "y": 481.00124799999986,
+      "w": 10.999982559999998,
+      "h": 28.000050399999996,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 807.5015759999998,
+      "y": 584.9988479999998,
+      "w": 12.000005919999996,
+      "h": 28.000050399999996,
+      "id": "ui-rect-4",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 707.4992399999998,
+      "y": 574.0008959999999,
+      "w": 28.000050399999996,
+      "h": 54.99991279999999,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 330.5010799999999,
+      "y": 584.9988479999998,
+      "w": 92.99992239999997,
+      "h": 50.99998399999998,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1068.9279439999998,
+      "y": 552.1421919999998,
+      "w": 12.142858559999995,
+      "h": 26.428643919999992,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 1,
+    "Traffic lights": 2,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

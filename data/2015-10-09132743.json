@@ -1,0 +1,171 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 2342.494,
+      "y": 1122.0005999999998,
+      "w": 81.99995999999999,
+      "h": 82.99998,
+      "id": "ui-rect-0",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2341.5,
+      "y": 1035.0004,
+      "w": 87.00005999999999,
+      "h": 85.00002,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1589.504,
+      "y": 770.9996000000001,
+      "w": 58.000040000000006,
+      "h": 136.00006,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1239.4997999999998,
+      "y": 753.9994,
+      "w": 58.000040000000006,
+      "h": 136.00006,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1050.4997999999998,
+      "y": 774.9994,
+      "w": 89.99998000000001,
+      "h": 77,
+      "id": "ui-rect-4",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 893.4996000000001,
+      "y": 742,
+      "w": 56,
+      "h": 134.00001999999998,
+      "id": "ui-rect-5",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1597.4979999999998,
+      "y": 1108.0005999999998,
+      "w": 59.99994,
+      "h": 56,
+      "id": "ui-rect-6",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1539.496,
+      "y": 1106,
+      "w": 56,
+      "h": 59.99994,
+      "id": "ui-rect-7",
+      "Category": "Speed limit",
+      "Content": "70"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1428.504,
+      "y": 1423.9959999999999,
+      "w": 58.000040000000006,
+      "h": 46.999959999999994,
+      "id": "ui-rect-8",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1408.498,
+      "y": 1421.994,
+      "w": 24.99994,
+      "h": 53.999959999999994,
+      "id": "ui-rect-9",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1177.4994,
+      "y": 1418.998,
+      "w": 56,
+      "h": 46.999959999999994,
+      "id": "ui-rect-11",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1153.5005999999998,
+      "y": 1418.004,
+      "w": 36.00002,
+      "h": 35,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1215.4996,
+      "y": 1421,
+      "w": 35,
+      "h": 39.99996,
+      "id": "ui-rect-13",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 998.4996000000001,
+      "y": 1414,
+      "w": 45.00006,
+      "h": 38.00006,
+      "id": "ui-rect-14",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 5,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

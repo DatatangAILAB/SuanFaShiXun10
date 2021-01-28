@@ -1,0 +1,65 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 683.7016949152543,
+      "y": 733.8072639225181,
+      "w": 55.70537530266344,
+      "h": 37.48435835351089,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 782.8784503631962,
+      "y": 730.6866828087167,
+      "w": 46.33549636803874,
+      "h": 35.9225181598063,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 804.8426150121065,
+      "y": 521.4992736077481,
+      "w": 20.043777239709442,
+      "h": 35.349539951573846,
+      "id": "ui-rect-4",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1110.9694915254238,
+      "y": 496.7205811138015,
+      "w": 29.15486682808717,
+      "h": 29.15486682808717,
+      "id": "ui-rect-5",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1417.2493946731236,
+      "y": 613.0266343825666,
+      "w": 57.528135593220334,
+      "h": 52.061598062954,
+      "id": "ui-rect-6",
+      "Category": "Speed limit",
+      "Content": "40"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 2,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}

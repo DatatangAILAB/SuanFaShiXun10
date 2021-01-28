@@ -1,0 +1,40 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Dontcare",
+      "x": 1189.7185973397823,
+      "y": 833.7119419588875,
+      "w": 123.48012188633615,
+      "h": 92.12005610640871,
+      "id": "ui-rect-0",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1644.4406481257558,
+      "y": 663.1946989117292,
+      "w": 297.9201547762999,
+      "h": 274.40002708585246,
+      "id": "ui-rect-1",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 2406.880425634825,
+      "y": 659.2737896009673,
+      "w": 152.88004643288997,
+      "h": 164.63995356711004,
+      "id": "ui-rect-3",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 2,
+    "Dontcare": 1
+  }
+}

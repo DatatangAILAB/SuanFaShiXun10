@@ -1,0 +1,107 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 460.99199999999985,
+      "w": 1321.5103999999997,
+      "h": 1359.9283599999997,
+      "id": "ui-rect-0",
+      "Category": "City bus",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1253.6983199999997,
+      "y": 1245.9994399999998,
+      "w": 253.40055999999996,
+      "h": 205.79999999999995,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1193.5008399999997,
+      "y": 833.0097999999998,
+      "w": 258.00067999999993,
+      "h": 140.00005599999997,
+      "id": "ui-rect-2",
+      "Category": "Interurban coach",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1258.5003199999996,
+      "y": 981.5307599999998,
+      "w": 1156.3215999999998,
+      "h": 960.0158399999997,
+      "id": "ui-rect-3",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2437.4951999999994,
+      "y": 1255.9993599999998,
+      "w": 80.99993999999998,
+      "h": 185.00047999999995,
+      "id": "ui-rect-4",
+      "Category": "Cyclists",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2248.2179999999994,
+      "y": 1244.2961999999998,
+      "w": 337.8569599999999,
+      "h": 162.85757599999994,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 2357.5075999999995,
+      "y": 1065.7147199999997,
+      "w": 31.428599999999992,
+      "h": 74.28576399999999,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 2352.5095999999994,
+      "y": 1192.8579599999998,
+      "w": 40.71429599999999,
+      "h": 44.28580799999999,
+      "id": "ui-rect-7",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 5,
+    "Traffic lights": 1,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

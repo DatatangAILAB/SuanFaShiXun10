@@ -1,0 +1,92 @@
+{
+  "boxs": [
+    {
+      "Object_type": "MISC",
+      "x": 1245.2722799999997,
+      "y": 684.9063199999998,
+      "w": 354.99911999999995,
+      "h": 182.99990799999995,
+      "id": "ui-rect-0",
+      "Category": "Vehicles"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1010.2721999999999,
+      "y": 449.9101599999999,
+      "w": 33.99992399999999,
+      "h": 80.99993999999998,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 898.2719199999998,
+      "y": 629.9087199999999,
+      "w": 26.999979999999994,
+      "h": 27.999971999999993,
+      "id": "ui-rect-2",
+      "Category": "Speed limit",
+      "Content": "30"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 671.2745199999999,
+      "y": 452.90699999999987,
+      "w": 34.99991599999999,
+      "h": 79.99994799999997,
+      "id": "ui-rect-3",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 861.2710399999997,
+      "y": 766.9068399999998,
+      "w": 14.000005599999996,
+      "h": 24.999995999999996,
+      "id": "ui-rect-5",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1195.0002399999996,
+      "y": 667.9993599999998,
+      "w": 22.857127999999992,
+      "h": 45.00003199999999,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 487.14231999999987,
+      "y": 642.9995599999999,
+      "w": 24.999995999999996,
+      "h": 41.42851999999999,
+      "id": "ui-rect-7",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 4,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

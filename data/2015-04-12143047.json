@@ -1,0 +1,70 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Traffic lights",
+      "x": 1683.2142857142858,
+      "y": 965.7142857142856,
+      "w": 28.571428571428577,
+      "h": 33.57142857142858,
+      "id": "ui-rect-0",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1630.357142857143,
+      "y": 965,
+      "w": 30.71428571428571,
+      "h": 35,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1579.6428571428576,
+      "y": 965,
+      "w": 28.571428571428577,
+      "h": 34.285714285714285,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1923.9285714285716,
+      "y": 1162.142857142857,
+      "w": 15.714285714285715,
+      "h": 32.142857142857146,
+      "id": "ui-rect-3",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Other",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1531.7857142857144,
+      "y": 1078.5714285714287,
+      "w": 25,
+      "h": 26.42857142857143,
+      "id": "ui-rect-4",
+      "Category": "Prohibitory signs"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 0,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 1,
+    "Dontcare": 0
+  }
+}

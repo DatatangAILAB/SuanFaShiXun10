@@ -1,0 +1,141 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 1203.5002895999996,
+      "y": 1098.0022703999998,
+      "w": 542.9986351999999,
+      "h": 418.9994703999999,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 249.89992159999994,
+      "y": 1111.3210975999998,
+      "w": 715.0024335999998,
+      "h": 486.68077919999985,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 1215.1979615999996,
+      "w": 81.00052015999998,
+      "h": 254.79988239999992,
+      "id": "ui-rect-2",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Left",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 630.8675519999998,
+      "y": 925.5067471999997,
+      "w": 36.22463611199999,
+      "h": 34.183670863999986,
+      "id": "ui-rect-3",
+      "Category": "No left-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 883.2145727999997,
+      "y": 1181.4302975999997,
+      "w": 165.00017743999993,
+      "h": 117.56986303999996,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1151.0701327999996,
+      "y": 1144.0015887999998,
+      "w": 146.99997648,
+      "h": 153.14000575999995,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1463.3576383999996,
+      "y": 1059.0407632,
+      "w": 22.959283983999995,
+      "h": 45.918260639999986,
+      "id": "ui-rect-6",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1469.1277215999996,
+      "y": 1064.2922303999997,
+      "w": 12.244907919999998,
+      "h": 13.775516607999997,
+      "id": "ui-rect-7",
+      "Category": "Turning left",
+      "Color": "Red",
+      "Association_id": "ui-rect-6",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1494.1403791999996,
+      "y": 1068.8906255999996,
+      "w": 32.652793263999996,
+      "h": 33.16341873599999,
+      "id": "ui-rect-8",
+      "Category": "No left-turn",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1537.4889935999995,
+      "y": 1058.6719695999998,
+      "w": 22.449004255999995,
+      "h": 45.918260639999986,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2319.1009295999997,
+      "y": 1038.7916895999997,
+      "w": 68.59983535999997,
+      "h": 205.79989023999994,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 5,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 2,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

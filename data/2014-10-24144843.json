@@ -1,0 +1,80 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1198.4977580799996,
+      "y": 787.0032374399997,
+      "w": 47.00006288319998,
+      "h": 48.00003904639998,
+      "id": "ui-rect-0",
+      "Category": "Speed limit",
+      "Content": "120"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1247.4989027199995,
+      "y": 785.0025321599998,
+      "w": 30.99990644799999,
+      "h": 49.00001520959998,
+      "id": "ui-rect-1",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1281.5001359999997,
+      "y": 782.0014742399998,
+      "w": 49.00001520959998,
+      "h": 50.999913753599984,
+      "id": "ui-rect-2",
+      "Category": "Minimum speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1396.4976636799995,
+      "y": 764.0005049599997,
+      "w": 50.999913753599984,
+      "h": 49.99956111359998,
+      "id": "ui-rect-3",
+      "Category": "Speed limit",
+      "Content": "100"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1453.4908729599995,
+      "y": 764.0005049599997,
+      "w": 29.99987650239999,
+      "h": 48.00003904639998,
+      "id": "ui-rect-4",
+      "Category": "Indication signs"
+    },
+    {
+      "Object_type": "Indication signs",
+      "x": 1488.4870806399997,
+      "y": 757.9983891199996,
+      "w": 52.99986607999998,
+      "h": 53.99968089599998,
+      "id": "ui-rect-5",
+      "Category": "Minimum speed limit",
+      "Content": "60"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1310.4996060799995,
+      "y": 1027.0018191999998,
+      "w": 22.99998957759999,
+      "h": 27.00000179519999,
+      "id": "ui-rect-6",
+      "Category": "Vehicles"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 0,
+    "Vehicles": 0,
+    "Traffic lights": 0,
+    "Indication signs": 2,
+    "Prohibitory signs": 2,
+    "MISC": 3,
+    "Dontcare": 0
+  }
+}

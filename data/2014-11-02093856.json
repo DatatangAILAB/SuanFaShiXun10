@@ -1,0 +1,119 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1175.5,
+      "y": 196.999,
+      "w": 90,
+      "h": 91,
+      "id": "ui-rect-0",
+      "Category": "Height limit",
+      "Content": "4.5"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 850.257,
+      "y": 550,
+      "w": 20.9184,
+      "h": 46.9388,
+      "id": "ui-rect-1",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 823.214,
+      "y": 565.306,
+      "w": 27.551,
+      "h": 20.4082,
+      "id": "ui-rect-2",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 830.5,
+      "y": 594.999,
+      "w": 242,
+      "h": 350.999,
+      "id": "ui-rect-3",
+      "Category": "Tricycle",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1215.56,
+      "y": 715.379,
+      "w": 49.9271,
+      "h": 48.1049,
+      "id": "ui-rect-4",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1260.02,
+      "y": 709.184,
+      "w": 41.5452,
+      "h": 33.1633,
+      "id": "ui-rect-5",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1307.76,
+      "y": 698.979,
+      "w": 109.694,
+      "h": 42.2741,
+      "id": "ui-rect-6",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1558.08,
+      "y": 676.021,
+      "w": 41.7795,
+      "h": 73.9279,
+      "id": "ui-rect-7",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Left",
+      "Truncation": "Truncation for most parts (35%~50%)"
+    },
+    {
+      "Object_type": "Dontcare",
+      "x": 1505.49,
+      "y": 689.556,
+      "w": 78.8736,
+      "h": 51.8011,
+      "id": "ui-rect-8",
+      "Category": "Dontcare"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1351.65,
+      "y": 624.479,
+      "w": 14.8376,
+      "h": 27.3324,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 1,
+    "Vehicles": 1,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 1,
+    "MISC": 0,
+    "Dontcare": 4
+  }
+}

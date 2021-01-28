@@ -1,0 +1,157 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 96.50003478260871,
+      "y": 1001.9989565217393,
+      "w": 112.0000695652174,
+      "h": 63.999860869565225,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Left",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 824.5001739130436,
+      "y": 994.000695652174,
+      "w": 22.999993043478263,
+      "h": 58.000069565217395,
+      "id": "ui-rect-1",
+      "Category": "Standing people",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 964.4994782608696,
+      "y": 989.0013913043479,
+      "w": 38.0000347826087,
+      "h": 56.0000347826087,
+      "id": "ui-rect-2",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1102.5015652173913,
+      "y": 999.0000000000001,
+      "w": 15.999996521739131,
+      "h": 31.999930434782613,
+      "id": "ui-rect-3",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1235.5012173913044,
+      "y": 978.0010434782608,
+      "w": 40.000069565217395,
+      "h": 47.99989565217391,
+      "id": "ui-rect-4",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1268.4991304347827,
+      "y": 965.000347826087,
+      "w": 45.99986086956522,
+      "h": 54.00000000000001,
+      "id": "ui-rect-5",
+      "Category": "Truck",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1216.4994782608696,
+      "y": 956.000347826087,
+      "w": 49.99993043478261,
+      "h": 56.0000347826087,
+      "id": "ui-rect-6",
+      "Category": "Truck",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1221.4987826086958,
+      "y": 992.9989565217393,
+      "w": 38.0000347826087,
+      "h": 33.00010434782609,
+      "id": "ui-rect-7",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Front",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1290.4998260869565,
+      "y": 911.9989565217393,
+      "w": 209.9998956521739,
+      "h": 218.9998956521739,
+      "id": "ui-rect-8",
+      "Category": "Truck",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 1472.5001739130437,
+      "y": 981.0000000000001,
+      "w": 47.0000347826087,
+      "h": 60.00010434782609,
+      "id": "ui-rect-9",
+      "Category": "E-bike riders/moto-cyclists",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2217.499826086957,
+      "y": 971.0013913043479,
+      "w": 42.000104347826095,
+      "h": 101.99989565217392,
+      "id": "ui-rect-10",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2261.5012173913046,
+      "y": 963.0000000000001,
+      "w": 36.99986086956522,
+      "h": 108.99986086956523,
+      "id": "ui-rect-11",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 6,
+    "Vehicles": 6,
+    "Traffic lights": 0,
+    "Indication signs": 0,
+    "Prohibitory signs": 0,
+    "MISC": 0,
+    "Dontcare": 0
+  }
+}

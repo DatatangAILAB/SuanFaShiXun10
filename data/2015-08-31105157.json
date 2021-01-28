@@ -1,0 +1,229 @@
+{
+  "boxs": [
+    {
+      "Object_type": "Vehicles",
+      "x": 0,
+      "y": 793.8013327999998,
+      "w": 538.0199215999999,
+      "h": 950.6000783999998,
+      "id": "ui-rect-0",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 232.26006271999995,
+      "y": 950.6000783999998,
+      "w": 449.23670399999986,
+      "h": 413.99770719999987,
+      "id": "ui-rect-1",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 390.5601055999999,
+      "y": 538.7728751999999,
+      "w": 81.63246335999999,
+      "h": 81.12191471999998,
+      "id": "ui-rect-2",
+      "Category": "Speed limit",
+      "Content": "70"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 475.76679359999986,
+      "y": 541.8346303999999,
+      "w": 81.12191471999998,
+      "h": 81.63246335999999,
+      "id": "ui-rect-3",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 692.6020639999998,
+      "y": 823.4700095999998,
+      "w": 69.89791199999998,
+      "h": 68.87719887999998,
+      "id": "ui-rect-4",
+      "Category": "No temporary or long-term parking",
+      "Content": "no"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 640.5022847999999,
+      "y": 957.0001839999998,
+      "w": 528.9998447999999,
+      "h": 265.00163535999997,
+      "id": "ui-rect-5",
+      "Category": "Sedan",
+      "Occlusion": "Occlusion for most parts (35%~50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 851.9016911999998,
+      "y": 905.7993391999997,
+      "w": 888.9961807999998,
+      "h": 757.4021727999998,
+      "id": "ui-rect-6",
+      "Category": "Sedan",
+      "Occlusion": "No occlusion (0%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Prohibitory signs",
+      "x": 1021.6888863999998,
+      "y": 571.4264751999999,
+      "w": 81.99703119999998,
+      "h": 78.71745727999998,
+      "id": "ui-rect-7",
+      "Category": "Speed limit",
+      "Content": "50"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1472.1164863999995,
+      "y": 737.2452975999998,
+      "w": 41.90955103999999,
+      "h": 106.04928879999997,
+      "id": "ui-rect-9",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1481.9010415999994,
+      "y": 807.6042015999998,
+      "w": 21.600164319999994,
+      "h": 22.600171215999993,
+      "id": "ui-rect-10",
+      "Category": "Ordinary light",
+      "Color": "Green",
+      "Association_id": "ui-rect-9",
+      "Number": "no"
+    },
+    {
+      "Object_type": "MISC",
+      "x": 1498.7003583999997,
+      "y": 896.6025487999998,
+      "w": 45.60017615999999,
+      "h": 45.40002879999999,
+      "id": "ui-rect-11",
+      "Category": "Prohibitory signs"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1432.8975919999996,
+      "y": 1010.8017919999998,
+      "w": 779.8063839999999,
+      "h": 265.9992988799999,
+      "id": "ui-rect-12",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 1849.4960623999996,
+      "y": 990.9983439999996,
+      "w": 450.0050239999999,
+      "h": 240.00203919999993,
+      "id": "ui-rect-13",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Right",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Traffic lights",
+      "x": 1921.6835679999995,
+      "y": 863.7799183999997,
+      "w": 31.63261796799999,
+      "h": 61.734896159999984,
+      "id": "ui-rect-14",
+      "Category": "Traffic light frame",
+      "Color": "no",
+      "Association_id": "no",
+      "Number": "no"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2152.4907375999996,
+      "y": 764.0020415999998,
+      "w": 393.9983375999999,
+      "h": 1179.0024063999997,
+      "id": "ui-rect-15",
+      "Category": "Standing people",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 2394.7074591999994,
+      "y": 1078.5714575999998,
+      "w": 196.42907535999996,
+      "h": 326.9908454399999,
+      "id": "ui-rect-16",
+      "Category": "Sedan",
+      "Occlusion": "Partial occlusion (0%~35%)",
+      "Direction": "Right",
+      "Truncation": "Others (more than 50%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2459.957035199999,
+      "y": 995.9194335999997,
+      "w": 88.77553439999998,
+      "h": 263.77693328,
+      "id": "ui-rect-17",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    },
+    {
+      "Object_type": "Pedestrians",
+      "x": 2523.4625247999993,
+      "y": 1005.1008575999998,
+      "w": 68.36741855999999,
+      "h": 220.91735455999995,
+      "id": "ui-rect-18",
+      "Category": "Standing people",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "Minor truncation (0%~15%)"
+    },
+    {
+      "Object_type": "Vehicles",
+      "x": 144.90015791999994,
+      "y": 919.8019711999997,
+      "w": 320.5972705599999,
+      "h": 324.7995967999999,
+      "id": "ui-rect-19",
+      "Category": "Sedan",
+      "Occlusion": "Others (more than 50%)",
+      "Direction": "Back",
+      "Truncation": "No truncation (0%)"
+    }
+  ],
+  "Workload": {
+    "Pedestrians": 3,
+    "Vehicles": 8,
+    "Traffic lights": 3,
+    "Indication signs": 0,
+    "Prohibitory signs": 3,
+    "MISC": 2,
+    "Dontcare": 0
+  }
+}
